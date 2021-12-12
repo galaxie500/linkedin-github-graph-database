@@ -1,0 +1,835 @@
+repoID,token,repoName,description,language
+0,NatalieNunez,c0321-code-solutions,,JavaScript
+1,NatalieNunez,code-journal,"A dynamic HTML, CSS, and JavaScript journal application for coders who want to capture their notes.",JavaScript
+2,NatalieNunez,CodeSignal,,TypeScript
+3,NatalieNunez,crackin-jokes,"A dynamic HTML, CSS, and JavaScript solo project",JavaScript
+4,NatalieNunez,edabit,,JavaScript
+5,NatalieNunez,JSPractice,,
+6,NatalieNunez,meme-gallery,"An interactive HTML, CSS, and JavaScript app",JavaScript
+7,NatalieNunez,modern-javascript-2020,,HTML
+8,NatalieNunez,NatalieNunez,My personal repository,
+9,NatalieNunez,our-day-wedding-planner,Full-stack web application built in React and Node.js,JavaScript
+10,NatalieNunez,portfolio,An HTML and CSS app to showcase my work,HTML
+11,NatalieNunez,prep-0221-code-solutions,,HTML
+12,NatalieNunez,todo-list-ts,A to-do list made with TypeScript,JavaScript
+13,NatalieNunez,typescript-practice,typescript practice problems,JavaScript
+14,tkhaxton,MF-CG-TOID-MC,Simulation software for the Molecular Foundry Coarse-grained Model for Peptoids.,C
+15,tkhaxton,MF-CG-TOID-MC_2.0,,C
+16,tkhaxton,node-pngjs,Simple PNG encoder/decoder,JavaScript
+17,tkhaxton,osrm-backend,Project OSRM: C++ backend,C++
+18,tkhaxton,P-MOST-PDB,Creates optimal mapping functions for an oriented coarse-grained protein model using data from the Protein Data Bank.,C
+19,tkhaxton,P-MOST-PDB-Python-MySQL,Creates optimal mapping functions for an oriented coarse-grained protein model using data from the Protein Data Bank.,Python
+20,tkhaxton,pngjs,Pure JavaScript PNG decoder,JavaScript
+21,tkhaxton,Radar_Brain-backend,"Creates, trains, and tests an artificial neural network that makes near-term rain forecasts.",C++
+22,tkhaxton,Radar_Brain-frontend,Source code for web application (radarbrain.com) that predicts the near-term rain forecast using machine learning.,JavaScript
+23,zhengweifz,dm_insurance_claim,,Jupyter Notebook
+24,zhengweifz,forest_gdp,,Jupyter Notebook
+25,zhengweifz,gwu_course_web_scrapping,,Python
+26,zhengweifz,istm-6212,,Jupyter Notebook
+27,zhengweifz,kaggle_digit,,Python
+28,zhengweifz,kaggle_sf_crime,,Jupyter Notebook
+29,zhengweifz,LP_Pymongo,,Python
+30,zhengweifz,mds_assignment,,Jupyter Notebook
+31,zhengweifz,merge-conflicts,,HTML
+32,zhengweifz,nih_collaboration_network,,Jupyter Notebook
+33,zhengweifz,rxts,learning rxjs with typescript,TypeScript
+34,zhengweifz,unemployment_by_state,,Jupyter Notebook
+35,zhengweifz,wb_data_cluster,,Python
+36,zhengweifz,yelp_review_webscrapping,,Python
+37,zhengweifz,zhengweifz.github.io,,JavaScript
+38,kewalkothari,aakash-patel-portfolio,Aakash Patel's Portfolio,HTML
+39,kewalkothari,cs-50,,C
+40,kewalkothari,economic-indicators,Displays economic indicators of India,JavaScript
+41,kewalkothari,govocal4local,,JavaScript
+42,kewalkothari,live-stock-media-net,An assignment on live stock update consuming a mock web socket server,JavaScript
+43,kewalkothari,ml-algorithm-collections,Self implemented ML algorithms,Java
+44,kewalkothari,product-directory,,JavaScript
+45,kewalkothari,react-select,The Select Component for React.js,
+46,kewalkothari,snakes-and-ladder,Snakes and ladder game,JavaScript
+47,kewalkothari,SwiftWeatherApp,,Swift
+48,nickweimer,dataset-explorer-example-function-for-import,Python function used as an example to show importing homemade packages,Python
+49,nickweimer,dbt-snowflake-tutorial,https://courses.getdbt.com/courses/fundamentals,
+50,nickweimer,Docker_and_Kubernetes_Notes,Notes- Docker and Kubernetes,
+51,nickweimer,Getting-Dressed-Permutations-in-Python,Getting Dressed: Permutations in Python,Python
+52,nickweimer,Jose-Portilla-Complete-Python-Bootcamp-Notes,,Jupyter Notebook
+53,nickweimer,magicmethods,Guide to Python's magic methods,HTML
+54,nickweimer,NodeCallAPI,,JavaScript
+55,nickweimer,Pygame_Functions,A set of functions that make working with Pygame and Python much easier.,
+56,nickweimer,Quick-Starter-Code-for-Website-with-User-Auth-and-CRUD-API-using-Express-Node-and-MongoDB,Quick Starter Code for Website with User Auth and CRUD API using Express Node and MongoDB,JavaScript
+57,nickweimer,rds-support-tools,"Amazon RDS Support Tools contains utilities, sql, scripts and views which are useful in a RDS environment",
+58,nickweimer,react-flask-classifeyeanimals,,JavaScript
+59,nickweimer,stencil-nw-accordion,Stencil web component - simple accordion,
+60,nickweimer,xgboost,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow",C++
+61,elainew96,Advent-of-Code-2020,https://adventofcode.com/,Python
+62,elainew96,buildingStats,"Davis Hacks project, using android studio to make an app that locates the building a person is in and fetches the information on the water/energy usage",Java
+63,elainew96,coding_exercises,,Python
+64,elainew96,elainew96.github.io,,HTML
+65,elainew96,forestfires_ml,,Python
+66,elainew96,infoscout,,Python
+67,elainew96,maxTweets,,C
+68,elainew96,Queens,finding a solution to the queens problem using backtracking instead of recursion,C++
+69,elainew96,rust,"rust files for evaluation postorder expressions, changing preorder to post order expressions, doing matrix operations and making a binary tree and using preorder/in order/post order on it",Rust
+70,elainew96,Spending-to-Excel,,Python
+71,elainew96,Tensorflow_MNIST,,Python
+72,elainew96,Turing-Machines,"DFA turing machine simulates a dfa with three states and an alphabet {a,b}. Graph encoding turing machine takes in an input w , where w = {1,2,3,4,$,:,|}* and accepts the graph if there is a graph such that w = <G> and that <G> is the string consisting of the edges of G in lexicographic order delimited by colons",Tcl
+73,elainew96,WordCount,"A program that reads in a text file, and outputs all the words alphabetically, the number of times the word appears, and the line number(s) it appears on",C++
+74,tongxinguo,Conjoint-Analysis-with-R,"Analyzing a conjoint analysis (cluster & segmentation) based on 200 individuals for a toy company, EarlyRiders. Making recommendations on messaging, packaging, and product line.  ",
+75,tongxinguo,Customer-Targeting-for-Email-Promotion,Marketing Analytics project : Promotion email targeting with uplift and causal forest model,
+76,tongxinguo,Home-Equity-Line-of-Credit-Risk-Prediction,"SVM, KNN, Linear Regressions, Decision Tree, Random Forest, Ada Boost + Recommendation",Jupyter Notebook
+77,tongxinguo,Sentiment-Analysis-of-Airline-Twitter-Data,Text Analytics project using SVM and Naive Bayes with Twitter API,R
+78,tongxinguo,tongxinguo.github.io,My portfolio page,HTML
+79,tongxinguo,Wegmans-Greek-Yogurt-Flavor-Recommendation,Recommend the next flavor to launch based on customer survey data with TURF Analysis in R and SQL,
+80,WesCodes,Chinook-Store-Sql-Analysis,,Jupyter Notebook
+81,WesCodes,CIA-Factbook-SQL-Analysis,Using SQL to do some light data exploration and analysis,Jupyter Notebook
+82,WesCodes,DSC106-Final-Vis---Las-Vegas-Restaurant,DSC106 Final Project --incomplete,HTML
+83,WesCodes,DSC180A_Assignment3_Docker,,Dockerfile
+84,WesCodes,eBay-Car-Analysis,To practice data analytics skill by cleaning and inspecting data,Jupyter Notebook
+85,WesCodes,Exploration-of-Gun-Deaths-in-the-US,To discover interesting insights on gun related deaths in the US,Jupyter Notebook
+86,WesCodes,Instagram-Bot,This is strictly for academic usages and a demonstration of the usage of the selenium module.,Python
+87,WesCodes,instagram-follower-scraper,A python script that can automatically scrape other people followers on instagram and save them in a txt file.,
+88,WesCodes,MLB_SQLITE_DATABASE_DESIGN_CREATION,Design and Creation of a MLB database,Jupyter Notebook
+89,WesCodes,The-Gender-Pay-Gap-Analyzing-Earning-Based-on-College-Majors,,Jupyter Notebook
+90,WesCodes,Tic-Tac-Toe,,Jupyter Notebook
+91,jeremyrchow,120-Data-Science-Interview-Questions,Answers to 120 commonly asked data science interview questions.,
+92,jeremyrchow,bart_analysis,Exploring dataset currently,Jupyter Notebook
+93,jeremyrchow,Credit-Card-Fraud-Detection-Kaggle,Identifying credit card fraud for the IEEE Fraud Detection Kaggle Competition - https://www.kaggle.com/c/ieee-fraud-detection/overview,Jupyter Notebook
+94,jeremyrchow,CtCI-6th-Edition-Python,Cracking the Coding Interview 6th Ed. Python Solutions,Python
+95,jeremyrchow,data_science_useful_functions,,Jupyter Notebook
+96,jeremyrchow,Data_Scientist_Takehome_Practice,,Jupyter Notebook
+97,jeremyrchow,dsp,Metis Data Science Bootcamp - Official Prework Repository,Jupyter Notebook
+98,jeremyrchow,facebook-clone,,JavaScript
+99,jeremyrchow,github-as-a-distribution-service,Presentation on using github as a class material distribution service,
+100,jeremyrchow,grokking-system-design,"LiRen Tu, scale",
+101,jeremyrchow,guide_to_pandas_resample,A guide to pandas resample function with examples.,Jupyter Notebook
+102,jeremyrchow,harassment-classifier,Harassment Classifier trained on Kaggle Wikipedia comment dataset,Jupyter Notebook
+103,jeremyrchow,Harassment-Classifier-App,Website that classifies comments for toxicity in real time,CSS
+104,jeremyrchow,Introduction-To-Algorithms-CLRS-Practice,,Jupyter Notebook
+105,jeremyrchow,jeremychow_blogv1,,CSS
+106,jeremyrchow,lending_club_default_model,Predicting whether loans will default based on pre-loan metrics,Jupyter Notebook
+107,jeremyrchow,log_base_linearization,Showing that log base doesn't matter when linearizing data,Jupyter Notebook
+108,jeremyrchow,metis_proj_1,Metis Spring 2019 Project 1 - NYC MTA Turnstile Data Project,Jupyter Notebook
+109,jeremyrchow,pandas_exercises,Practice your pandas skills!,Jupyter Notebook
+110,jeremyrchow,portfolio,,JavaScript
+111,jeremyrchow,portfolio-heroku,,JavaScript
+112,jeremyrchow,react-redux-basic,,JavaScript
+113,jeremyrchow,react-redux-toolkit-typescript,,TypeScript
+114,jeremyrchow,Residential_Data_Analysis,,Jupyter Notebook
+115,jeremyrchow,restaurant-reviews,,JavaScript
+116,jeremyrchow,spark-scala-tutorial,A free tutorial for Apache Spark.,
+117,jeremyrchow,system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,
+118,jeremyrchow,text-generation-kaggle,Generating text in the style of Edgar Allen Poe using stacked LSTM's,Jupyter Notebook
+119,jeremyrchow,twitch-toxicity-detector-chatbot,Chatbot that classifies Twitch chat for toxicity in real time. ,JavaScript
+120,jeremyrchow,Twitch_Streamers_Recommender,"This is a recommender system which provides Twitch streamers with suggestions on game to stream for channel growth. By Natasha Borders, Jeremy Chow, Randy Macaraeg",
+121,christyono,christyono,Config files for my GitHub profile.,
+122,christyono,cvd,,HTML
+123,christyono,Fabflix-Project,,Java
+124,christyono,FitYourGenes,,HTML
+125,christyono,FoodNutritionAPI,v1,Python
+126,christyono,FoodNutritionApp,,JavaScript
+127,christyono,PersonalWebsite,,CSS
+128,christyono,scentbird-ltv-model,,Jupyter Notebook
+129,christyono,SpringBootMySQLExample,Simple CRUD + REST API,Java
+130,christyono,yandex-practicum-projects,Compilation of all projects completed throughout the Practicum Data Science Curriculum,Jupyter Notebook
+131,hackcoderr,amazon-rekognition-virtual-proctor,A solution to assist with virtual proctoring of exams using Amazon Rekognition,
+132,hackcoderr,amazon-transcribe-websocket-static,A static site demonstrating real-time audio transcription via Amazon Transcribe over a WebSocket.,
+133,hackcoderr,Amazon-Web-Services,"Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in the Amazon Web Services (AWS) cloud. Using Amazon EC2 eliminates your need to invest in hardware up front, so you can develop and deploy applications faster.",Shell
+134,hackcoderr,angels_bite,Social media pages of Angel's bite.,HTML
+135,hackcoderr,Ansible,A Repository that contains the codes related to Ansible,HTML
+136,hackcoderr,ansible-1,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+137,hackcoderr,ansible-dynamic-inventory-ec2,RPM specification for Ansible dynamic inventory EC2,
+138,hackcoderr,Ansible-Setup,A Repository that contains the script related to Ansible Setup.,Python
+139,hackcoderr,Arth-DSA,A Repository for DSA codes and projects,Jupyter Notebook
+140,hackcoderr,Arth-Group-11,,
+141,hackcoderr,AWS-EKS-with-Prometheus-and-Grafana,Completely Managed PHP Website Development on AWS EKS with Prometheus and Grafana.,
+142,hackcoderr,AWS_AI,A Repository that contains the codes related to AWS AI Services.,Jupyter Notebook
+143,hackcoderr,Azure_DevOps_Challengce,,CSS
+144,hackcoderr,Badges4-README.md-Profile,👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.,
+145,hackcoderr,calculator_python,,Python
+146,hackcoderr,CBNST-LAB,Computer Based Numerical and Statistical Techniques: CBNST is use to optimize performance and minimize error in problem-solving application.,C
+147,hackcoderr,certified-kubernetes-administrator-course,Certified Kubernetes Administrator - CKA Course,
+148,hackcoderr,Compiler-Design,Repository that contains code related to compiler design,C
+149,hackcoderr,covid-19-symptoms-predictor-web-app,Covid 19 symptoms predictor web application on the multi-clouds using MLOps tools,Python
+150,hackcoderr,Create-AWS-VPC-with-Public-Subnet-Private-Subnet-Internet-Gateway-and-NAT-Gateway-then-deploy-Word,,HCL
+151,hackcoderr,Create-VPC-and-Deploy-Public-WordPress-Server-with-Private-Database-Server-using-Terraform,"We have to create a web portal for our company with all the security as much as possible. So, we use the WordPress software with a dedicated database server. The database should not be accessible from the outside world for security purposes. We only need the public WordPress for clients.",HCL
+152,hackcoderr,DAA,The repository contains the code and project related to DSA,C++
+153,hackcoderr,Deep-Learning,xyz,
+154,hackcoderr,Deploy-Infrastructure-website-On-AWS-and-integrating-with-EFS-using-Terraform,,HCL
+155,hackcoderr,DevFolio,DevFolio Website template,CSS
+156,hackcoderr,DO101-apps,,
+157,hackcoderr,Dock-Man-App,Developed a mobile app for the management of all the activities of Docker using flutter and python that will help the developers to perform the tasks of Docker remotely.,Dart
+158,hackcoderr,Docker,Repository that contains all the codes related to Docker Engine,
+159,hackcoderr,Docker_Web_App,A repository that contains all the stuff related to Docker Web Application.,HTML
+160,hackcoderr,drakvuf,,
+161,akan72,Analytics-Workshop,Joint effort between CADS and the UNC Institute of Politics ,
+162,akan72,CarolinaDataChallenge2017,,R
+163,akan72,comp790,,Jupyter Notebook
+164,akan72,Datafest-2018,,
+165,akan72,dotfiles,My Dotfiles!,Lua
+166,akan72,dotfiles-1,dotfiles and checklist for a productive new computer,
+167,akan72,generativeMusic,Final Project for COMP 562 at UNC,Jupyter Notebook
+168,akan72,geospatial-store,Final Project for UNC COMP 590 ,Jupyter Notebook
+169,akan72,hacknc2018,,Jupyter Notebook
+170,akan72,MBTI,,HTML
+171,akan72,mlpowered,Workshop for CDC 2020,Python
+172,akan72,PiazzaTextualAnalysis,COMP 227 Final Project,Jupyter Notebook
+173,akan72,scalding,A Scala API for Cascading,
+174,akan72,Yelp-Review-Analysis-,,HTML
+175,agorina91,arts_and_crafts,Arts and Crafts web dev exercise,HTML
+176,agorina91,burgers,Statistically comparing burgers,Jupyter Notebook
+177,agorina91,covid19_nlp,COVID-19 Open Research Dataset Challenge (CORD-19),Jupyter Notebook
+178,agorina91,covid_nlp,,
+179,agorina91,dash-sample-apps,Apps hosted in the Dash Gallery,
+180,agorina91,dash-tutorial,,
+181,agorina91,derivative-rules-ds-apply-000,,Jupyter Notebook
+182,agorina91,ds-k-means-clustering-lab-nyc-ds-111819,,
+183,agorina91,ds-word-vectorization-lab-nyc-ds-111819,,
+184,agorina91,dsc-accessing-data-with-pandas-lab-nyc-ds-111819,,Jupyter Notebook
+185,agorina91,dsc-basic-time-series-models-lab-nyc-ds-111819,,
+186,agorina91,dsc-bayes-theorem-lab-nyc-ds-111819,,
+187,agorina91,dsc-coefficient-of-determination-lab-nyc-ds-111819,,
+188,agorina91,dsc-complete-regression-lab-nyc-ds-111819,,
+189,agorina91,dsc-corpus-statistics-lab-nyc-ds-111819,,
+190,agorina91,dsc-correlation-covariance-lab-nyc-ds-111819,,
+191,agorina91,dsc-creating-functions-lab-nyc-ds-111819,,Jupyter Notebook
+192,agorina91,dsc-data-science-env-nyc-ds-111819,,
+193,agorina91,dsc-data-viz-lab-nyc-ds-111819,,
+194,agorina91,dsc-distance-metrics-lab-nyc-ds-111819,,
+195,agorina91,dsc-exploring-your-data-lab-nyc-ds-111819,,
+196,agorina91,dsc-filtering-and-ordering-lab-nyc-ds-111819,,Jupyter Notebook
+197,agorina91,dsc-functions-with-arguments-lab-nyc-ds-111819,,Jupyter Notebook
+198,agorina91,dsc-grouping-data-with-sql-lab-nyc-ds-111819,,
+199,agorina91,dsc-html-introduction-lab-nyc-ds-111819,,Ruby
+200,agorina91,dsc-intro-to-sets-lab-nyc-ds-111819,,
+201,agorina91,dsc-join-statements-lab-nyc-ds-111819,,
+202,agorina91,dsc-k-nearest-neighbors-lab-nyc-ds-111819,,
+203,agorina91,dsc-knn-with-scikit-learn-lab-nyc-ds-111819,,
+204,agorina91,dsc-learn-lessons-lab-nyc-ds-111819,,
+205,harshitagirase,1000_Projects, :sunglasses: Mega List of practical projects that one can solve in any programming language! ,
+206,harshitagirase,awesome-courses,List of awesome university courses for learning Computer Science!,
+207,harshitagirase,buffalo-tech-resources,A miscellaneous collection of things Buffalo Devs may find useful or cool.,
+208,harshitagirase,cse321,CSE 321,C
+209,harshitagirase,getting-a-gig,Guide for getting a gig as a tech major.,
+210,harshitagirase,getting-a-gig-pm-edition,Guide for getting a gig in product management as a tech major.,
+211,harshitagirase,harshitagirase.github.io,Personal website,CSS
+212,harshitagirase,LightMeUp,Wifi Controlled LED lights,C++
+213,harshitagirase,particles.js,A lightweight JavaScript library for creating particles,JavaScript
+214,harshitagirase,personal-sites,List of Hackathon Hackers' personal sites.,Python
+215,harshitagirase,PossibleActivities,These are a list of possible activities for the upcoming semesters.,
+216,shreyasgokhale,Amazon-Robot,"Custom Amazon Robot ROS2 Packages for Navigation, Gazebo and Applications",Python
+217,shreyasgokhale,APP-RAS-Docker,Docker Image for Application of Robotics Course (TU Berlin) ,Shell
+218,shreyasgokhale,assets,,HTML
+219,shreyasgokhale,aws-robomaker-small-warehouse-world,This Gazebo world is well suited for organizations who are building and testing robot applications for warehouse and logistics use cases.,CMake
+220,shreyasgokhale,base,,
+221,shreyasgokhale,bg96-test,Test driver for bg96,
+222,shreyasgokhale,buildroot-test,Buildroot repository for raspberry pi zero,Makefile
+223,shreyasgokhale,cartographer,Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.,C++
+224,shreyasgokhale,cartographer-grpc,A dockerized version of Google Cartographer with Cloud GRPC features,Shell
+225,shreyasgokhale,cartographer_ros,Provides ROS integration for Cartographer.,C++
+226,shreyasgokhale,colab-gsoc2020-Shreyas_Gokhale,,Python
+227,shreyasgokhale,CustomRobots,,
+228,shreyasgokhale,end-effector,,C++
+229,shreyasgokhale,esp32-simulator,ESP32 simulator for Linux,
+230,shreyasgokhale,eurotrip-planner,Plan your next EuroTrip using power of Skyscanner APIs,Python
+231,shreyasgokhale,forty-jekyll-theme,"A Jekyll version of the ""Forty"" theme by HTML5 UP.",CSS
+232,shreyasgokhale,frontier_exploration,ROS Node and Costmap 2D plugin layer for frontier exploration,
+233,shreyasgokhale,gameoflife,Python3 and Cursed based Conway's Game of Life,Python
+234,shreyasgokhale,gc-ros-gazebo-vnc,"A docker environment with Google Cartographer GRPC + ROS, Gazebo, Xfce4 VNC Desktop",Shell
+235,shreyasgokhale,i2cdevlib,I2C device library collection for AVR/Arduino or other C++-based MCUs,C++
+236,shreyasgokhale,jderobot.github.io,Web page for JdeRobot Organization,JavaScript
+237,shreyasgokhale,junction_2019_slingshot,Project repo for Game Jam challenge. TODO better desc,HTML
+238,shreyasgokhale,Longest-Path-In-a-Dungeon,,C++
+239,shreyasgokhale,minimal-mistakes,":triangular_ruler: A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios.",CSS
+240,shreyasgokhale,Multi-Robot-Decentralized-Architecture,"Framework using Docker, ROS, and Nimbro Network for simulating isolated robots on cloud with Google Cartographer SLAM",Shell
+241,shreyasgokhale,navigation2,ROS2 Navigation ,
+242,shreyasgokhale,platform-espressif32,Espressif 32: development platform for PlatformIO,
+243,shreyasgokhale,PythonRobotics,Python sample codes for robotics algorithms.,
+244,shreyasgokhale,RoboticsAcademy,Learn Robotics with JdeRobot,Python
+245,shreyasgokhale,ros-melodic,,
+246,mmkvdev,action,a GitHub action to install (pre-release) pythons from deadsnakes,
+247,mmkvdev,AgentScreenService,Agent Screen Service for Cloud Servant,JavaScript
+248,mmkvdev,altair,✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.,
+249,mmkvdev,ansible,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+250,mmkvdev,apollo-server,"🌍 GraphQL server for Express, Connect, Hapi, Koa and more",
+251,mmkvdev,Appian-Training,Repository for Appian Process Models and Components,
+252,mmkvdev,awesome,😎 Awesome lists about all kinds of interesting topics,
+253,mmkvdev,awesome-aws,"A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
+254,mmkvdev,aws,Development repository for the aws cookbook,
+255,mmkvdev,aws-cli,Universal Command Line Interface for Amazon Web Services,
+256,mmkvdev,aws-shell,An integrated shell for working with the AWS CLI.,
+257,mmkvdev,bolt-js,A framework to build Slack apps using JavaScript,
+258,mmkvdev,brave-browser,"Next generation Brave browser for macOS, Windows, Linux, Android.",
+259,mmkvdev,calculator,,
+260,mmkvdev,chaosmonkey,Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.,
+261,mmkvdev,ckeditor5,"Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+262,mmkvdev,cli-guidelines,"A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.",
+263,mmkvdev,clojure_experimentation,just a bunch of code that has clojure functionality experimented ,Clojure
+264,mmkvdev,cloud-servant-native-service,React Native built Mobile App for Cloud Servant,JavaScript
+265,mmkvdev,CloudServant,Cloud Servant,JavaScript
+266,mmkvdev,colorls,"A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:",
+267,mmkvdev,commerce,Next.js Commerce,
+268,mmkvdev,compose,Define and run multi-container applications with Docker,
+269,mmkvdev,cplusplussnippets,Collection of c++ experiment programs,C++
+270,mmkvdev,CryoTherapy-Analysis,A Binary Classification Model based on Decision Tree Classification approach that has the capability to diverse the patients whether they are having a risk of cancer or not.,Jupyter Notebook
+271,mmkvdev,DayDeterminer,"Give a date, get a day. ",
+272,mmkvdev,DecimalToBinaryConverter,Converting Decimal Numbers to Binary,JavaScript
+273,mmkvdev,deno,A secure JavaScript and TypeScript runtime,
+274,mmkvdev,deno_website2,deno.land website ,
+275,mmkvdev,docsearch-configs,DocSearch - Configurations,
+276,kavitha89,carbon-tutorial,An app for the Carbon Design System tutorial,
+277,kavitha89,iOS-Manage-Environments-Single-Target,iOS Manage Environments with Single Target,
+278,kavitha89,kReviewMe,iOS SKStoreReviewController demonstration with example project.,Swift
+279,kavitha89,productlist,A sample json file for react native assignment,
+280,kavitha89,Sharing-Data-iOS,An example project to show case inter app communication in iOS with URIScheme and UIPasteBoard for BITS Pilani project.,Objective-C
+281,kavitha89,SyncKit-Android,SyncKit in Android- An app developed for BITS Pilani Project demo.,Java
+282,kavitha89,SyncKit-iOS,SyncKit in iOS- An app developed for BITS Pilani Project demo.,Objective-C
+283,zhengweifz,dm_insurance_claim,,Jupyter Notebook
+284,zhengweifz,forest_gdp,,Jupyter Notebook
+285,zhengweifz,gwu_course_web_scrapping,,Python
+286,zhengweifz,istm-6212,,Jupyter Notebook
+287,zhengweifz,kaggle_digit,,Python
+288,zhengweifz,kaggle_sf_crime,,Jupyter Notebook
+289,zhengweifz,LP_Pymongo,,Python
+290,zhengweifz,mds_assignment,,Jupyter Notebook
+291,zhengweifz,merge-conflicts,,HTML
+292,zhengweifz,nih_collaboration_network,,Jupyter Notebook
+293,zhengweifz,rxts,learning rxjs with typescript,TypeScript
+294,zhengweifz,unemployment_by_state,,Jupyter Notebook
+295,zhengweifz,wb_data_cluster,,Python
+296,zhengweifz,yelp_review_webscrapping,,Python
+297,zhengweifz,zhengweifz.github.io,,JavaScript
+298,rabujamra,autoencoder_classifier,Autoencoder model for rare event classification,
+299,rabujamra,Capstone,,Jupyter Notebook
+300,rabujamra,capstone_healthcare_fraud,,
+301,rabujamra,classification-tutorial,Multi class classification tutorial.,
+302,rabujamra,cmsfrauddetection,,
+303,rabujamra,MachineLearning,,Jupyter Notebook
+304,rabujamra,ML-Project-Predicting-Housing-Prices-Kaggle,"Implemented advanced linear models with regularization to predict the housing prices, helping investors evaluate housing prices and real estate companies in the pricing of houses. Ranked in the top 17% in Kaggle.",
+305,rabujamra,ml_pocket_reference,Resources for Machine Learning Pocket Reference,Jupyter Notebook
+306,rabujamra,Scrapy_Project,,Jupyter Notebook
+307,rabujamra,Shiny_Project,,R
+308,rabujamra,SOA-Predictive-Modeling-Innovation-and-Industry-Contest-2019-First-Place,"This submission earned first place in the ""2019 Predictive Modeling, Innovation and Industry Contest,"" created by the SOA Predictive Analytics and Futurism Section and Technology Section.",
+309,rabujamra,SOA-Predictive-Modeling-Innovation-and-Industry-Contest-2019-Third-Place,"This submission earned third place in the ""2019 Predictive Modeling, Innovation and Industry Contest,"" created by the SOA Predictive Analytics and Futurism Section and Technology Section.",
+310,rabujamra,tensorflow-2-example,TensorFlow 2.0 example for testing Sequential Model.,
+311,rabujamra,TestProject,,Python
+312,rabujamra,WGU_Code,,Jupyter Notebook
+313,FalconiNicasio,book,Gregor von Laszewski,
+314,FalconiNicasio,box-plots-sklearn,An implementation of some of the tools used by the winner of the box plots competition using scikit-learn.,Jupyter Notebook
+315,FalconiNicasio,cloudmesh-multipass,,Python
+316,FalconiNicasio,DataCamp,,Jupyter Notebook
+317,FalconiNicasio,Digits,Kaggle Competition Solution,Jupyter Notebook
+318,FalconiNicasio,Epicycles_of_Analysis,Going through the Epicycle of Analysis,HTML
+319,FalconiNicasio,FalconiNicasio.github.io,,CSS
+320,FalconiNicasio,Ghouls.Goblins.Ghosts,Kaggle Competition Solution,Jupyter Notebook
+321,FalconiNicasio,Graphic_Projects_cpp,,C++
+322,FalconiNicasio,House.Prices,Kaggle Competition Solution,Jupyter Notebook
+323,FalconiNicasio,i590_CodePortfolio,Code portfolio for Applied Data Science Course,
+324,FalconiNicasio,Kaggle,Kaggle Competition repositories,Jupyter Notebook
+325,FalconiNicasio,leaflet-choropleth,Choropleth plugin for Leaflet (color scale based on value),
+326,FalconiNicasio,PetPals,,HTML
+327,FalconiNicasio,pikachu-detector,,Jupyter Notebook
+328,FalconiNicasio,python-challenge,,Python
+329,FalconiNicasio,risk-management,,Jupyter Notebook
+330,FalconiNicasio,sales-forecasting,,
+331,FalconiNicasio,test,,
+332,FalconiNicasio,yolov5,YOLOv5 in PyTorch > ONNX > CoreML > TFLite,
+333,shbhamdbey,AWS_CAR-Rekognition-SQS,,Java
+334,shbhamdbey,Catlog_Prediction,,
+335,shbhamdbey,Complete-Python-3-Bootcamp,Course Files for Complete Python 3 Bootcamp Course on Udemy,
+336,shbhamdbey,Data-Structures,,Python
+337,shbhamdbey,ETL-Pipline-Sales-and-Market-Cap-Reports,Data Engineering for Annual Company Sales by year and correlating with market cap and with overall stock market,Jupyter Notebook
+338,shbhamdbey,firstPythone,Learning python programming,Python
+339,shbhamdbey,JAVA-PROJECT,,Java
+340,shbhamdbey,Microservice_API_USA_Census,,
+341,shbhamdbey,Pfizer_Capstone,,Jupyter Notebook
+342,shbhamdbey,ROC-Sklearn,,Jupyter Notebook
+343,shbhamdbey,Sales-Predictions-Using-Marketing-Performance-,,Jupyter Notebook
+344,shbhamdbey,School-Admit-Prediction,,Jupyter Notebook
+345,shbhamdbey,shbhamdbey,Config files for my GitHub profile.,
+346,shbhamdbey,shubham_portfolio,,HTML
+347,shbhamdbey,SQL-Notes-Practice,Continue SQL Practice Notes ,
+348,shbhamdbey,SQL-Practice,,
+349,shbhamdbey,WineQuality_prediction,,Python
+350,nithish08,camstudio-mousedown-highlight,Modify CamStudio so that the cursor highlight is only displayed when the mouse button is pressed,
+351,nithish08,captum-intro,,
+352,nithish08,cookbook,A repository of machine learning codes written for re-usability,
+353,nithish08,dilated-cnn,Dilated & Causal Convolutions on time-series data  | PyTorch | Keras,Jupyter Notebook
+354,nithish08,disaster-tweet,Predict which Tweets are about real disasters and which ones are not,Jupyter Notebook
+355,nithish08,docker-test-repo,Docker test repo,Python
+356,nithish08,ds-blog,My personal Blog.,Python
+357,nithish08,ecom-rakuten,"Winning solution for the Rakuten Data Challenge, as part of SIGIR eCom '18.",Python
+358,nithish08,ESRNN-GPU,PyTorch GPU implementation of the ES-RNN model for time series forecasting,
+359,nithish08,fastai,The fastai deep learning library,
+360,nithish08,forestfires, Aim is to predict the burned area of forest fires,Jupyter Notebook
+361,nithish08,Loan-Prediction,AV Loan Prediction,Jupyter Notebook
+362,nithish08,mastermind,Can we use Reinforcement Learning to play MasterMind?,
+363,nithish08,melanoma-classification,Can we identify melanoma in images?,Jupyter Notebook
+364,nithish08,ml-in-detail,ML algorithms in detail.,
+365,nithish08,ml2-project,"CNN, GRU, LSTM on timeseries data",Jupyter Notebook
+366,nithish08,model-productization_article,This is repo to demonstrate how to convert from Jupyter Notebook to scripts with some engineering practices,
+367,nithish08,opioids,Data Visualization of Opioid Crisis,HTML
+368,nithish08,project-ark,"Mini serverless(?) pipeline to extract daily ARK holdings data, load data to BQ, check data quality via dbt using GitHub Actions",
+369,nithish08,prophet,Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.,Python
+370,nithish08,pytorch-forecasting,Time series forecasting with PyTorch,
+371,nithish08,Resume_sim,Takes two unstructured resume text files and ouputs similarity on scale of 0 to 1.,Python
+372,nithish08,richter,Top 1% solution for Predicting Earth-Quake Damage,Jupyter Notebook
+373,nithish08,rl-for-qa,Reinforcement Learning for Question and Answering Task,
+374,nithish08,Santander-value-prediction-challenge,,Jupyter Notebook
+375,nithish08,scikit-learn,scikit-learn: machine learning in Python,
+376,nithish08,sql-cookbook,sql code snippets for reusability.,
+377,nithish08,time-series-analysis,Time Series concepts and code snippets.,Jupyter Notebook
+378,nithish08,tweet-sent,Using transformer models to extract phrases from sentences.,Jupyter Notebook
+379,nithish08,xgboost,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow",C++
+380,davidjayjackson,-BusinessScience-free-r-tips,Code and data from https://mailchi.mp/business-science/r-tips-newsletter,
+381,davidjayjackson,AAVSO-AER,Applied Econometrics with R,
+382,davidjayjackson,AAVSO-Hurdle,,R
+383,davidjayjackson,AAVSO-PROPHET-Kanzel,Kanzel sunspot data and R progs,HTML
+384,davidjayjackson,AAVSO-PROPHET-Sidc,Predicting Sunspots with Sidc data and Facebook Prophet,HTML
+385,davidjayjackson,AAVSO-stardust,Code for Id-ing suspect visual obs of variable stars,HTML
+386,davidjayjackson,AAVSO-WSO-SIDC,Rodney How's Polar data analysis using WSO and SIDC data. ,HTML
+387,davidjayjackson,analytics,Data Portfolio ,
+388,davidjayjackson,Analyzing_Light_Curves,Collection of R Script based on Grant Foster's book Analyzing Light Curves,HTML
+389,davidjayjackson,androidAnalysis,a,
+390,davidjayjackson,Arvind-Dwivedi-fish-biodiversity,,R
+391,davidjayjackson,ATM, A collection of scripts for for use with ATM,
+392,davidjayjackson,BASE-R-COVID-19-Smooth,Demo of a couple of smoothing methods using base R,HTML
+393,davidjayjackson,BASE-R-COVID-19-SQLITE,Intro to using SQLite3 and RSQLite package,HTML
+394,davidjayjackson,BASE-R-Random-States,COVID-19 Analysis for US States,HTML
+395,davidjayjackson,BASE-R-RStudio,Base R walk- threws,HTML
+396,davidjayjackson,BASE-R-Smooth,Fun with Base R Part 1,HTML
+397,davidjayjackson,Benfords-Laws-Analysis,,HTML
+398,davidjayjackson,Betelgeuse,AAVSO  related  script,Perl
+399,davidjayjackson,Cancer-Deaths-MIchigan,,
+400,davidjayjackson,Caribou-Data-Science-Videos,,
+401,davidjayjackson,CaribouDataScience,Version 0.5 of data analysist  portfolio ,
+402,davidjayjackson,CENSUS-TidayCensus-Censusapi,Two for one special: Tidycensus and Censusapi R packages,
+403,davidjayjackson,Chess-Data,Data from Chess.com,
+404,davidjayjackson,CHESSSTATS,Stats from chess.com,
+405,davidjayjackson,citi-bike,Fun with bigger data,R
+406,davidjayjackson,COBOL,GNU COBOL Docs and code,COBOL
+407,davidjayjackson,Colaboratory,"Python, Pandas , and Numpy  Oh!My!",
+408,davidjayjackson,combine-a-conquer,Replaces impute-a-maice,R
+409,davidjayjackson,commandlineds,"vesion one of  the book one of the ""Data Science at the Command Line.",
+410,alexwcheng,alexwcheng.github.io,,HTML
+411,alexwcheng,athleisure-ads-strategy,"01/08/20 - Multiple ANOVA with Tukey Test to create an athleisure clothing ad campaign strategy using Google, Youtube, and Amazon search volume data.",Jupyter Notebook
+412,alexwcheng,athleisure-advertising,"Multiple ANOVA with Tukey Test to create an athleisure clothing ad campaign strategy using Google, Youtube, and Amazon search volume data.",Jupyter Notebook
+413,alexwcheng,coding-practice,Regular coding practice challenges.,Jupyter Notebook
+414,alexwcheng,crack-detection,"A CNN (Convolutional Neural Network) model to automatically classify images of building construction that show deficient work, with cracking as the focus.",Jupyter Notebook
+415,alexwcheng,dc-ds-111819,11/18/19 DC Data Science,HTML
+416,alexwcheng,fintech-retweetability,A Random Forest model with RandomSearchCV + GridSearchCV hyperparameter tuning identifies the most important features of a tweet and a twitter user that leads to the most retweets. ,Jupyter Notebook
+417,alexwcheng,learn-co-sandbox,,
+418,alexwcheng,movie-insights,"12/04/19 - An exercise in exploratory data analysis to determine if a movie's budget, ""votes"", release month, and genre is correlated with higher grossing revenue.",Jupyter Notebook
+419,alexwcheng,recipe-strategy,"01/23/20 - A Logistic Regression classification model to predict whether a recipe will be ""highly liked"" or not on Spoonacular to determine whether or not to run ads when a new recipe is posted.",Jupyter Notebook
+420,alexwcheng,recipe-webpage-ads,"A Logistic Regression classification model to predict whether a recipe will be ""highly liked"" or not on Spoonacular to determine whether or not to run ads when a new recipe is posted.",Jupyter Notebook
+421,alexwcheng,twitter-business,02/05/20 - A Random Forest model with RandomSearchCV + GridSearchCV hyperparameter tuning identifies the most important features of a tweet and a twitter user that leads to the most retweets. ,Jupyter Notebook
+422,nestorghh,120-Data-Science-Interview-Questions,Answers to 120 commonly asked data science interview questions.,
+423,nestorghh,APK-Downloader,Download latest version of android apps and games from Google Play.,
+424,nestorghh,capitalone_challenge,Data Science Challenge: Trips!,Jupyter Notebook
+425,nestorghh,CCS-talks,A brief summary of a few talks I attended,
+426,nestorghh,cipher_nestor_hernandez,,Python
+427,nestorghh,coding_interview,Coding interview questions,Python
+428,nestorghh,EcommerceDB,Relational database schema ,
+429,nestorghh,machine-learning,:earth_americas: machine learning algorithms tutorials (mainly in Python3) ,Jupyter Notebook
+430,nestorghh,ML_Class,First online version of Andrew Ng's class I took before coursera back in 2011,MATLAB
+431,nestorghh,modelsinR,Some predictive models in R,
+432,nestorghh,NeuralNets_1,EEL5813 - Perceptron learning. ,MATLAB
+433,nestorghh,posk,,
+434,nestorghh,PTARL,,
+435,nestorghh,QuoraChallenge,take-home challenge,Jupyter Notebook
+436,nestorghh,racketstore,source code for RacketStore ,Java
+437,nestorghh,ud839_Miwok,,Java
+438,yuecchen,appmetrics,Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.,JavaScript
+439,yuecchen,appmetrics-zipkin,Provide zipkin integration from appmetrics,JavaScript
+440,yuecchen,BigBlueGizmos-OnlineSales,,HTML
+441,yuecchen,catalog-api-Gizmos-Online-Sales,,JavaScript
+442,yuecchen,catalog-api-toolchain-demo-1486246726198,,JavaScript
+443,yuecchen,go,The Go programming language,
+444,yuecchen,jaeger-client-node,Jaeger Bindings for OpenTracing API for Node.js,JavaScript
+445,yuecchen,orders-api-Gizmos-Online-Sales,,JavaScript
+446,yuecchen,orders-api-toolchain-demo-1486246726198,,JavaScript
+447,yuecchen,SampleApps,,
+448,yuecchen,ui-Gizmos-Online-Sales,,PHP
+449,yuecchen,zipkin-js,Zipkin instrumentation for Node.js and browsers,JavaScript
+450,Sanil15,2014-summer-travels,Python-based spatial data analysis and visualization of the GPS location data from my 2014 summer travels.,Jupyter Notebook
+451,Sanil15,angucomplete-alt,Autocomplete Directive for AngularJS. A fork of Daryl Rowland's angucomplete (https://github.com/darylrowland/angucomplete) with some extra features.,JavaScript
+452,Sanil15,angularUtils,A place where I will collect useful re-usable Angular components that I make,JavaScript
+453,Sanil15,Competitive-Coding-Challanges,"Java, JavaScript Coding challanges",Java
+454,Sanil15,Data-Mining-Knowledge-Discovery,"Python, PySpark Implementation for For Expectation Maximization, Clustering, PCA, FP Growth. Visualization and Analysis",Jupyter Notebook
+455,Sanil15,Data-Structures-and-Fundamental-Programs,"Data Structures, Fundies programming Repo in C++ dated 2011",C++
+456,Sanil15,Functional-Programming,(Repo Available on Request) Extensive Functional Programming in Racket ,
+457,Sanil15,Java-Projects,"Java, J2EE, Design Patterns(MVC, DAO, Factory), Web, Bootstrap, CSS, HTML5",Java
+458,Sanil15,Map-Reduce-BigData-Parallel-Processing,"Parallel Data Processing in MapRedeuce: Multithreading, MapReduce Design Patterns, Hadoop, Machine Learning, Spark, Hive (Java,Scala)",Java
+459,Sanil15,Mean-Stack-Projects,"AngularJS, NodeJS, Express, MongoDb, Mongoose, CSS, Bootstrap, HTML5, jQuery, jQueryUI, Google Maps APIs, Sockets.io",JavaScript
+460,Sanil15,samza,Mirror of Apache Samza,Java
+461,Sanil15,samza-hello-samza,Mirror of Apache Samza,Java
+462,Sanil15,sparkmldecisiontree,,Scala
+463,Sanil15,WebDev,,JavaScript
+464,shbhamdbey,AWS_CAR-Rekognition-SQS,,Java
+465,shbhamdbey,Catlog_Prediction,,
+466,shbhamdbey,Complete-Python-3-Bootcamp,Course Files for Complete Python 3 Bootcamp Course on Udemy,
+467,shbhamdbey,Data-Structures,,Python
+468,shbhamdbey,ETL-Pipline-Sales-and-Market-Cap-Reports,Data Engineering for Annual Company Sales by year and correlating with market cap and with overall stock market,Jupyter Notebook
+469,shbhamdbey,firstPythone,Learning python programming,Python
+470,shbhamdbey,JAVA-PROJECT,,Java
+471,shbhamdbey,Microservice_API_USA_Census,,
+472,shbhamdbey,Pfizer_Capstone,,Jupyter Notebook
+473,shbhamdbey,ROC-Sklearn,,Jupyter Notebook
+474,shbhamdbey,Sales-Predictions-Using-Marketing-Performance-,,Jupyter Notebook
+475,shbhamdbey,School-Admit-Prediction,,Jupyter Notebook
+476,shbhamdbey,shbhamdbey,Config files for my GitHub profile.,
+477,shbhamdbey,shubham_portfolio,,HTML
+478,shbhamdbey,SQL-Notes-Practice,Continue SQL Practice Notes ,
+479,shbhamdbey,SQL-Practice,,
+480,shbhamdbey,WineQuality_prediction,,Python
+481,colesobel,angular-express-seed,A great starting point for writing AngularJS apps backed by an Express-powered node.js server.,JavaScript
+482,colesobel,angular-seed,Seed project for angular apps. ,JavaScript
+483,colesobel,api_traversal,,JavaScript
+484,colesobel,auth_sandbox,,JavaScript
+485,colesobel,backend,,JavaScript
+486,colesobel,capstone,,JavaScript
+487,colesobel,checkerboard-exercise,,JavaScript
+488,colesobel,cole-sobel-portfolio,,HTML
+489,colesobel,exercisms,Exercism exercises ,JavaScript
+490,colesobel,first-angular-2-app,,TypeScript
+491,colesobel,foosball,A foosball statistics tracker for teams and players,JavaScript
+492,colesobel,fpinscala,"Code, exercises, answers, and hints to go along with the book ""Functional Programming in Scala""",Scala
+493,colesobel,hello-world,My first hello world repository,
+494,colesobel,higher_order_munchkins,,JavaScript
+495,colesobel,html-exercise,intro to html article - exercises,HTML
+496,colesobel,html-intro,intro page,HTML
+497,colesobel,html-practice,,HTML
+498,colesobel,HTML-practice-1,just brushing up html skills,HTML
+499,colesobel,hunters_sandbox,,Ruby
+500,colesobel,MeghanSobel,,HTML
+501,colesobel,merge_conflict_test,,JavaScript
+502,colesobel,NEAP_starter_template,A scaffold for Node with basic DB connection using PostgreSQL,JavaScript
+503,colesobel,node-todo,A simple Node/MongoDB/Angular todo app,JavaScript
+504,colesobel,objectlab,,JavaScript
+505,colesobel,oculus_trends,,TypeScript
+506,colesobel,plagiarism_checker,,HTML
+507,colesobel,playlist,,CSS
+508,colesobel,promises-workshop-many-to-many,,JavaScript
+509,colesobel,pushpop,,HTML
+510,colesobel,q1-project,first iteration of q1 project,JavaScript
+511,Avinash998,babel-test-sample,,JavaScript
+512,Avinash998,Documentation,,
+513,Avinash998,drspline,,JavaScript
+514,Avinash998,multiple_tabs_webscraping,"javascript , jquery , multipletab , webscraping.",HTML
+515,Avinash998,node-azuga-store,,JavaScript
+516,Avinash998,node-babel-template,,JavaScript
+517,Avinash998,node-card-game,,JavaScript
+518,Avinash998,node-chat-app,,JavaScript
+519,Avinash998,node-inventory-management,,
+520,Avinash998,node-lawn-mower,Mow you lawn for the best brice in market.,JavaScript
+521,Avinash998,node-split-app,,JavaScript
+522,Avinash998,node-test,,JavaScript
+523,Avinash998,node-todo-api,,JavaScript
+524,Avinash998,node-web-server,,JavaScript
+525,Avinash998,notes-node,,JavaScript
+526,Avinash998,weather-app,,JavaScript
+527,hackcoderr,amazon-rekognition-virtual-proctor,A solution to assist with virtual proctoring of exams using Amazon Rekognition,
+528,hackcoderr,amazon-transcribe-websocket-static,A static site demonstrating real-time audio transcription via Amazon Transcribe over a WebSocket.,
+529,hackcoderr,Amazon-Web-Services,"Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in the Amazon Web Services (AWS) cloud. Using Amazon EC2 eliminates your need to invest in hardware up front, so you can develop and deploy applications faster.",Shell
+530,hackcoderr,angels_bite,Social media pages of Angel's bite.,HTML
+531,hackcoderr,Ansible,A Repository that contains the codes related to Ansible,HTML
+532,hackcoderr,ansible-1,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+533,hackcoderr,ansible-dynamic-inventory-ec2,RPM specification for Ansible dynamic inventory EC2,
+534,hackcoderr,Ansible-Setup,A Repository that contains the script related to Ansible Setup.,Python
+535,hackcoderr,Arth-DSA,A Repository for DSA codes and projects,Jupyter Notebook
+536,hackcoderr,Arth-Group-11,,
+537,hackcoderr,AWS-EKS-with-Prometheus-and-Grafana,Completely Managed PHP Website Development on AWS EKS with Prometheus and Grafana.,
+538,hackcoderr,AWS_AI,A Repository that contains the codes related to AWS AI Services.,Jupyter Notebook
+539,hackcoderr,Azure_DevOps_Challengce,,CSS
+540,hackcoderr,Badges4-README.md-Profile,👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.,
+541,hackcoderr,calculator_python,,Python
+542,hackcoderr,CBNST-LAB,Computer Based Numerical and Statistical Techniques: CBNST is use to optimize performance and minimize error in problem-solving application.,C
+543,hackcoderr,certified-kubernetes-administrator-course,Certified Kubernetes Administrator - CKA Course,
+544,hackcoderr,Compiler-Design,Repository that contains code related to compiler design,C
+545,hackcoderr,covid-19-symptoms-predictor-web-app,Covid 19 symptoms predictor web application on the multi-clouds using MLOps tools,Python
+546,hackcoderr,Create-AWS-VPC-with-Public-Subnet-Private-Subnet-Internet-Gateway-and-NAT-Gateway-then-deploy-Word,,HCL
+547,hackcoderr,Create-VPC-and-Deploy-Public-WordPress-Server-with-Private-Database-Server-using-Terraform,"We have to create a web portal for our company with all the security as much as possible. So, we use the WordPress software with a dedicated database server. The database should not be accessible from the outside world for security purposes. We only need the public WordPress for clients.",HCL
+548,hackcoderr,DAA,The repository contains the code and project related to DSA,C++
+549,hackcoderr,Deep-Learning,xyz,
+550,hackcoderr,Deploy-Infrastructure-website-On-AWS-and-integrating-with-EFS-using-Terraform,,HCL
+551,hackcoderr,DevFolio,DevFolio Website template,CSS
+552,hackcoderr,DO101-apps,,
+553,hackcoderr,Dock-Man-App,Developed a mobile app for the management of all the activities of Docker using flutter and python that will help the developers to perform the tasks of Docker remotely.,Dart
+554,hackcoderr,Docker,Repository that contains all the codes related to Docker Engine,
+555,hackcoderr,Docker_Web_App,A repository that contains all the stuff related to Docker Web Application.,HTML
+556,hackcoderr,drakvuf,,
+557,sudheera96,abeam_python_Groupby,Apache Beam python project on GroupBy Transformation by using dataset from kaggle.,Jupyter Notebook
+558,sudheera96,about-me,,
+559,sudheera96,about-me-00,Starting point for an About Me developer site,
+560,sudheera96,about-me-20,About Me developer site after adding Bootstrap and CSS (background image),
+561,sudheera96,alexa-google-home-project,Developers: Conversational AI - Alexa or Google Home project ( server-side JavaScript),
+562,sudheera96,amrmat,,
+563,sudheera96,Android-Dialog-Demo-Spring-2020,This is a demo project for an Android app that uses a Dialog,
+564,sudheera96,Android-JSON-Demo-Spring-2020,This Android project has step by step commits to demonstrate getting JSON from a web site,
+565,sudheera96,Android-Room-Demo-Spring-2020,This repository shows the step by step commits to create a simple android project that demos creating an SQL database using Room,
+566,sudheera96,Android-Shared-Preferences-Demo-Spring-2020,Demo project for shared preferences,
+567,sudheera96,App,,HTML
+568,sudheera96,Artificial-Intelligence,Self Driving Car ,
+569,sudheera96,awesome-for-beginners,A list of awesome beginners-friendly projects.,
+570,sudheera96,awesome-readme,A curated list of awesome READMEs,
+571,sudheera96,Axure-,Few Flows and Designs,
+572,sudheera96,badges,,
+573,sudheera96,basic-hadoop-on-windows,"Simple instructions for getting Apache Hadoop (HDFS, YARN, MapReduce) installed and running on Windows 10",
+574,sudheera96,basic-setup-for-bigdata,Get a Windows machine ready for Big Data,
+575,sudheera96,basic-tools-for-data-analytics-fundamentals,,
+576,sudheera96,basic-tools-for-webdev,"Download, install, update, and manage basic software tools on Windows.",
+577,sudheera96,beam,Apache Beam is a unified programming model for Batch and Streaming,
+578,sudheera96,big-data-dev,,
+579,sudheera96,big-data-developers,Maintaining a list of big data developers,
+580,sudheera96,Big-market-Sales--ML,,
+581,sudheera96,Boat-Database,"Project on boat database using SQL with detail business rules, EER and normalization",
+582,sudheera96,bootcamp,Frontend Masters Bootcamp,
+583,sudheera96,car-price-prediction,Performed car price prediction using different Machine Learning methodologies on kaggle dataset.,Jupyter Notebook
+584,sudheera96,Case-Studies,,
+585,sudheera96,Data-Engineering-on-GCP-Cheatsheet,,
+586,sudheera96,DBMS,About DBMS,
+587,codingkohli,Algorithms,Generic ,Python
+588,codingkohli,AutoEncoder-for-Image-Classification,,Matlab
+589,codingkohli,AutoEncoder-for-MNIST,AutoEncoder for MNIST data,Matlab
+590,codingkohli,Camera-Localization,Plotting the co-ordinates of images taken by drone,Python
+591,codingkohli,ComputerVision,"Implementing AI and CV techniques using matlab for recognition of Images,Videos and Real world objects",
+592,codingkohli,DecentralizedIoT,,Python
+593,codingkohli,gregreda.com,,Jupyter Notebook
+594,codingkohli,ImageToTextAPI,An API to detect objects in real time and convert it to speech,
+595,codingkohli,IntelLabDatasetAnalysis,,
+596,codingkohli,JavaMatlabInterface,A java wrapper to call MATLAB functions,Java
+597,codingkohli,Machine-Learning,Coursera course of Standford on Machine Learning,Matlab
+598,codingkohli,ObjectDetection,Using the tensor flow API to detect objects in real time ,Python
+599,codingkohli,Pintos,Building User Programs on top of Pintos Kernel,
+600,codingkohli,Scene-Classification-Tensor-Flow,Classifying a scene using BOW approach via Tensor Flow,Python
+601,codingkohli,Udacity-Web-Application,Developing a web application for the Udacity Course ,Python
+602,rohithreddy024,Text-Summarizer-Pytorch,"Pytorch implementation of ""A Deep Reinforced Model for Abstractive Summarization"" paper and pointer generator network",Python
+603,rohithreddy024,VAE-GAN-Pytorch,Generation of 128x128 bird images using VAE-GAN with additional feature matching loss,Python
+604,rohithreddy024,VAE-Text-Generation,Text generation using Variational Auto Encoders based on IMDB review dataset,Python
+605,rohithreddy024,Visual-Attention-Pytorch,Implementation of Attention for Fine-Grained Categorization in Pytorch,Python
+606,xizhang,android2arduino,,Java
+607,xizhang,arm-3-arduino,Arduino library for controlling a 3 axis robot arm,C++
+608,xizhang,camerax-gpuimage,Code sample for using GPUImage with CameraX ,Kotlin
+609,xizhang,coffee-mvc,"A MVC template for CoffeeScript, Express.js and Node.js",CoffeeScript
+610,xizhang,node-mvc,A mvc template for node.js + express.js + mysql.,JavaScript
+611,xizhang,stalker-tracker,A Wordpress plugin to track your secret admirer.,PHP
+612,alexseong,Advanced-Natural-Language-Processing-with-TensorFlow-2,"Advanced Natural Language Processing with TensorFlow 2, published by Packt",
+613,alexseong,ai-math-book,,
+614,alexseong,alexa_hello_zen_python,Alexa Skill Using Python about the Zen of Python PEP 20,Jupyter Notebook
+615,alexseong,alexdl,,Python
+616,alexseong,amadeus-pinto.github.io,machine learning models of daily fantasy gambler picks,
+617,alexseong,applied_data_engineering,,Jupyter Notebook
+618,alexseong,astacotron,Multi-Speaker Tacotron in TensorFlow,Python
+619,alexseong,automate-Arbin-schedule-file-creation,Arbin schedule file automation from CSV,
+620,alexseong,awesome_tensorflow_implementations,,
+621,alexseong,azure-intelligence-inventory-optimization,,Python
+622,alexseong,azure_databricks,,Jupyter Notebook
+623,alexseong,battery-fast-charging-optimization,"This repository contains much of the data, code, and visualizations associated with this manuscript:",
+624,alexseong,battery-parameter-spaces,Battery fast-charging parameter spaces,
+625,alexseong,block_chain_project_recommender,,Python
+626,alexseong,BMS-autoanalysis,,
+627,alexseong,bnpy,Bayesian nonparametric machine learning for Python,Python
+628,alexseong,BotBoosted,An App that Measures and Explores the Fraudulence of a Queried Topic on Twitter,Python
+629,alexseong,building-machine-learning-pipelines,"Code repository for the O'Reilly publication ""Building Machine Learning Pipelines"" by Hannes Hapke & Catherine Nelson",
+630,alexseong,Capstone-Project-Galvanize,Galvanize Cohort 18 - Capstone Project,HTML
+631,alexseong,Capstone-project-Gifthit,,Python
+632,alexseong,capstone_project,,Jupyter Notebook
+633,alexseong,Capstone_Project_CanYouKickIt,Classifier model to predict what makes a Kickstarter campaign successful,Python
+634,alexseong,cc-mrjob,Demonstration of using Python to process the Common Crawl dataset with the mrjob framework,Python
+635,alexseong,cnn-text-classification-tf,Convolutional Neural Network for Text Classification in Tensorflow,Python
+636,alexseong,CNN_sentence,CNNs for sentence classification,Python
+637,alexseong,Complete-Python-3-Bootcamp,Course Files for Complete Python 3 Bootcamp Course on Udemy,
+638,alexseong,cortana-intelligence-inventory-optimization,,
+639,alexseong,coursera-ml-py,Python programming assignments for Machine Learning by Prof. Andrew Ng in Coursera,Python
+640,alexseong,cs231n,CS231n 번역 프로젝트,Jupyter Notebook
+641,alexseong,cscie63_intro_R,,R
+642,chandlerphelps,Police-Killings-WIP,Investigating Police Killing Trends,HTML
+643,chandlerphelps,Tennis-Win-Probability,,Jupyter Notebook
+644,chandlerphelps,xgboost-monotonic-testing,Some testing of xgboost's monotonic constraints.,Jupyter Notebook
+645,adwaitsathe,glusterfs,"Gluster Filesystem - (this is only a public mirror, see the README for contributing)",C
+646,adwaitsathe,pithos,cassandra backed object store,
+647,adwaitsathe,zabbix-gluster,Zabbix Gluster template,Shell
+648,Nehan95,Chatbot-eliza,,Python
+649,Nehan95,High-Utilization-Prediction,,Jupyter Notebook
+650,Nehan95,Implementation-of-ML-methodologies-,,Jupyter Notebook
+651,Nehan95,mimic-code,MIMIC Code Repository: Code shared by the research community for the MIMIC-III database,
+652,Nehan95,NIH-s-Chest-X-Ray-Classification,,Jupyter Notebook
+653,Nehan95,Redesign-Project,,R
+654,Nehan95,Scicast-Project,,Python
+655,Nehan95,Sensitivity-based-Adversaries,,Python
+656,davidjayjackson,-BusinessScience-free-r-tips,Code and data from https://mailchi.mp/business-science/r-tips-newsletter,
+657,davidjayjackson,AAVSO-AER,Applied Econometrics with R,
+658,davidjayjackson,AAVSO-Hurdle,,R
+659,davidjayjackson,AAVSO-PROPHET-Kanzel,Kanzel sunspot data and R progs,HTML
+660,davidjayjackson,AAVSO-PROPHET-Sidc,Predicting Sunspots with Sidc data and Facebook Prophet,HTML
+661,davidjayjackson,AAVSO-stardust,Code for Id-ing suspect visual obs of variable stars,HTML
+662,davidjayjackson,AAVSO-WSO-SIDC,Rodney How's Polar data analysis using WSO and SIDC data. ,HTML
+663,davidjayjackson,analytics,Data Portfolio ,
+664,davidjayjackson,Analyzing_Light_Curves,Collection of R Script based on Grant Foster's book Analyzing Light Curves,HTML
+665,davidjayjackson,androidAnalysis,a,
+666,davidjayjackson,Arvind-Dwivedi-fish-biodiversity,,R
+667,davidjayjackson,ATM, A collection of scripts for for use with ATM,
+668,davidjayjackson,BASE-R-COVID-19-Smooth,Demo of a couple of smoothing methods using base R,HTML
+669,davidjayjackson,BASE-R-COVID-19-SQLITE,Intro to using SQLite3 and RSQLite package,HTML
+670,davidjayjackson,BASE-R-Random-States,COVID-19 Analysis for US States,HTML
+671,davidjayjackson,BASE-R-RStudio,Base R walk- threws,HTML
+672,davidjayjackson,BASE-R-Smooth,Fun with Base R Part 1,HTML
+673,davidjayjackson,Benfords-Laws-Analysis,,HTML
+674,davidjayjackson,Betelgeuse,AAVSO  related  script,Perl
+675,davidjayjackson,Cancer-Deaths-MIchigan,,
+676,davidjayjackson,Caribou-Data-Science-Videos,,
+677,davidjayjackson,CaribouDataScience,Version 0.5 of data analysist  portfolio ,
+678,davidjayjackson,CENSUS-TidayCensus-Censusapi,Two for one special: Tidycensus and Censusapi R packages,
+679,davidjayjackson,Chess-Data,Data from Chess.com,
+680,davidjayjackson,CHESSSTATS,Stats from chess.com,
+681,davidjayjackson,citi-bike,Fun with bigger data,R
+682,davidjayjackson,COBOL,GNU COBOL Docs and code,COBOL
+683,davidjayjackson,Colaboratory,"Python, Pandas , and Numpy  Oh!My!",
+684,davidjayjackson,combine-a-conquer,Replaces impute-a-maice,R
+685,davidjayjackson,commandlineds,"vesion one of  the book one of the ""Data Science at the Command Line.",
+686,adrianavesa,2018-02-olympic-figure-skating-analysis,"Data, code, and methodology supporting BuzzFeed News' analysis of figure skating scores at the 2018 Olympic Winter Games, published on February 23, 2018.",
+687,adrianavesa,atom,:atom: The hackable text editor,JavaScript
+688,adrianavesa,diabetes_project,,Jupyter Notebook
+689,adrianavesa,missingno,Missing data visualization module for Python.,
+690,rahuldkjain,abhijithvijayan.in,Source code for my personal website build with Next.js,
+691,rahuldkjain,AdobeXD_Cheatsheet,,
+692,rahuldkjain,AI_Freelancing,"This is the code for ""How to Do Freelance AI Programming"" By Siraj Raval on Youtube",
+693,rahuldkjain,animations,My handcrafted animations,JavaScript
+694,rahuldkjain,awesome-computer-science-opportunities,An awesome list of events and fellowship opportunities for Computer Science students,
+695,rahuldkjain,awesome-frontendmasters,📚 List of awesome frontendmasters course resources,
+696,rahuldkjain,awesome-interview-questions,:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ,
+697,rahuldkjain,awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",
+698,rahuldkjain,awesome-vue,🎉 A curated list of awesome things related to Vue.js,
+699,rahuldkjain,Bill,Perform billing operation for a restaurant,PHP
+700,rahuldkjain,blog,rahuldkjain blog to showcase technical and fictional recipies,HTML
+701,rahuldkjain,Budgety,"Beautiful WebApp to manage weekly, monthly or yearly Budget",JavaScript
+702,rahuldkjain,Car-Pool,Web application to find and create car pools,HTML
+703,rahuldkjain,Chatbot,,Python
+704,rahuldkjain,classification-using-custom-activation-functions,Image classification of MNIST & CIFAR-10 dataset using custom activation functions,Jupyter Notebook
+705,rahuldkjain,coala-bears,Bears for coala,Python
+706,rahuldkjain,color-themes,Vue.js App which allows for sampling color themes.,Vue
+707,rahuldkjain,cool-bio-analytics,,JavaScript
+708,rahuldkjain,CoviThread,,Java
+709,rahuldkjain,CP,Competitive Programming Questions to improve DS & Algorithms,Python
+710,rahuldkjain,Crop_Prediction,"ApnaAnaaj aims to solve crop value prediction problem in an efficient way to ensure the guaranteed benefits to the poor farmers. The team decided to use Machine Learning techniques on various data to came out with better solution. This solution uses Decision Tree Regression technique to predict the crop value using the data trained from authentic datasets of Annual Rainfall, WPI Index for about the previous 10 years. This implementation proved to be promising with 93-95% accuracy.",HTML
+711,rahuldkjain,css-animation-transition-cheatsheet,,CSS
+712,rahuldkjain,css-grid-cheatsheet,,HTML
+713,rahuldkjain,Data-Structures-using-Python,This is my repository for Data Structures using Python,Jupyter Notebook
+714,rahuldkjain,developerFolio,Software Developer Portfolio Template that help you showcase your work and skills as a software developer ⚡️,
+715,rahuldkjain,dhundho,,Java
+716,rahuldkjain,dhundho-frontend,,JavaScript
+717,rahuldkjain,django-notifications,GitHub notifications alike app for Django,Python
+718,rahuldkjain,django-tutorial,,Python
+719,rahuldkjain,elasticsearch-cheatsheet,":mag_right: Elasticsearch is awesome, here is a cheatsheet for it.",
+720,Williamovero,Anti-Theft-Program-,"This is a program that utilizes Kmeans and Decision Tree algorithms in order to detect the occurrences of fraud within the database. The K-means clustering is a method of vector quantization, originally from signal processing. It is popular for cluster analysis in data mining.  K-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.  A decision tree is a flowchart-like tree structure, where each node denotes a test on an attribute value, each branch represents an outcome of the test, and tree leaves represent classes or class distributions. The goal is to figure out how often fraud occurs and what is the estimated amount that people tend to consume. We hope to find fraudulent activity and make it easier to detect. Our results from the dataset we used illustrated that the age range that is most likely to experience fraud is between the ages of twenty-six and thirty two. Written in Python.",HTML
+721,Williamovero,Economical,Android app for the NCR HackGSU hackathon challenge ,Java
+722,Williamovero,finalWebProgrammingProject,In this project you will demonstate the skills that you have learned in this class as well as implementing something new and above the regular material. You can rewrite a previous project in a new language or different framework or you can implement something completly different.  Examples include:  Ruby on Rails Elixer with Phenix AJAX Web Services AngularJS ReactJS,PHP
+723,Williamovero,MerchantAnalytics,"Merchant services is a category of financial services in the United States that is used by businesses. Merchant services are authorized financial services that allow a business to accept credit card or bank debit card transactions using online ordering or point of sales systems. To use merchant services, a US-business must obtain a merchant account to accept customer credit card and electronic payments through an electronic commerce Web site.  A commonly associated term is Merchant Service Provider (MSP) the name used to describe a company or organization that will provide transaction processing solutions to merchants. ",Dart
+724,Williamovero,Old-Assignment-Programs,"Java, C, and Python files",Java
+725,Williamovero,play-samples,,
+726,Williamovero,stock_quotes_websocket,A web app for displaying stock quotes in real time,Scala
+727,Williamovero,TicTacToeAutomationScripts,Automation scripts to test a TicTacToe webapp written in Ruby,
+728,Williamovero,TravelMaster,,
+729,Williamovero,Vital_Upgrade,"The Anthem app ""Vitals"" is in desperate need of a redesign. We are here to provide a more convenient version. ",JavaScript
+730,Williamovero,WebClothes,Ecommerce website written in Django with a MongoDB database,HTML
+731,Williamovero,WebProgrammingProject3,Ecommerce website using java servlets and JSP,Java
+732,Williamovero,Williamovero.github.io,This is a personal website to showcase my skills and portfolio.,PHP
+733,jinsongwei,AndroidThreading,,Java
+734,jinsongwei,anomaly_detection,InsightData Coding challenge,
+735,jinsongwei,anomaly_detection-1,,Python
+736,jinsongwei,awesome-readme,A curated list of awesome READMEs,
+737,jinsongwei,Calculator,,Java
+738,jinsongwei,cameraEMIPersons,,Java
+739,jinsongwei,Celeberity,,Java
+740,jinsongwei,CelebrityFragment,,Java
+741,jinsongwei,CrazyZoo,,Java
+742,jinsongwei,CS201PathProfiling,CS201,Makefile
+743,jinsongwei,data-insight-tass-fly,,JavaScript
+744,jinsongwei,Drawerlayout,,Java
+745,jinsongwei,Firebase,,Java
+746,jinsongwei,FirstDayCoding,,Java
+747,jinsongwei,FridayCoding,,Java
+748,jinsongwei,hospital-time-management,,JavaScript
+749,jinsongwei,kernel_xv6,project cs202,Assembly
+750,jinsongwei,Meike,Android App,Java
+751,jinsongwei,MVPProject,,Java
+752,jinsongwei,networkingLab,for networking lab,Python
+753,jinsongwei,pintos,This is project CS153 operating system,C
+754,jinsongwei,RestProject,,Java
+755,jinsongwei,rshell,this is CS100 homework reposityory,C++
+756,jinsongwei,Sale_analysis_Recommendation_Insight,A dashboard app to show the sale analysis and recommendation results.,HTML
+757,jinsongwei,SearchEngine,simple search engine,Java
+758,jinsongwei,ucr-cs100,"course materials for ucr's cs100 ""open source sofware construction"" course",Perl
+759,jinsongwei,week3Coding,,Java
+760,jinsongwei,xv6-public,xv6 for education purpose,C
+761,jinsongwei,xv6_lab2,,C
+762,raghuncstate,arm-trusted-firmware,Arm Trusted Firmware,C
+763,raghuncstate,bootboot,BOOTBOOT multi platform micro-kernel loader,
+764,raghuncstate,congenial-disco,Just some interesting stuff,Shell
+765,raghuncstate,edk2,EDK II,C
+766,raghuncstate,libspdm,,C
+767,raghuncstate,linux,Linux kernel source tree,C
+768,raghuncstate,ms-tpm-20-ref,Reference implementation of the TCG Trusted Platform Module 2.0 specification.,C
+769,raghuncstate,secure96,Main repository for the Secure96 daughter board,C
+770,raghuncstate,simple-pt,Simple Intel CPU processor tracing on Linux,C
+771,raghuncstate,tpm2-tools,The source repository for the TPM (Trusted Platform Module) 2 tools,C
+772,raghuncstate,tpm2-tss,OSS implementation of the TCG TPM2 Software Stack (TSS2),C
+773,raghuncstate,tpm2-tss-engine,OpenSSL Engine for TPM2 devices,C
+774,raghuncstate,TSS.MSR,The TPM Software Stack from Microsoft Research,C++
+775,raj1603chdry,courseraMachineLearning,A repository containing all the content related to the coursera machine learning taught by Andrew Ng. Link: https://www.coursera.org/learn/machine-learning,Matlab
+776,raj1603chdry,CSE3018-Content-Based-Image-and-Video-Retrieval-Lab,Repository containing all the codes created for the lab sessions of CSE3018 Content Based Image and Video Retrieval at VIT University Chennai Campus,MATLAB
+777,raj1603chdry,CSE3020-Web-Mining-Labs,Repository containing all the codes created for the lab sessions of CSE3020 Web Mining at VIT University Chennai Campus,Python
+778,raj1603chdry,CSE4020-MachineLearningLabs,Repository containing all the codes created for the lab sessions of CSE4020 Machine Learning at VIT University Chennai Campus,Jupyter Notebook
+779,raj1603chdry,Fake-News-Detection-System,"Fake News Detection System for detecting whether news is fake or not. The model is trained using ""Liar, Liar Pants on Fire"": A New Benchmark Dataset for Fake News Detection. Link for dataset: https://arxiv.org/abs/1705.00648. ",Jupyter Notebook
+780,raj1603chdry,learning-php,Codes made while learning php,PHP
+781,raj1603chdry,machineLearning,A repository containing different machine learning codes in Python and R practiced for the Udemy course https://www.udemy.com/share/101WciBUAfdldbQ3o=/,Python
+782,raj1603chdry,Ngo-Explorer,A website that provides information about different NGOs.,PHP
+783,raj1603chdry,pythonMachineLearning,Repository containing all the codes practiced from Python Machine Learning Book by Sebastian Raschka,
+784,raj1603chdry,SciTech-VIT-2018,A website made for the event SciTech@VIT 2018 to be held on 24 February 2018 in VIT Chennai.,JavaScript
+785,raj1603chdry,web-development,Codes made while learning web development,HTML
+786,dattatele,Alertify,Notification alert for Linux Systems,Python
+787,dattatele,awesome-datascience,:memo: An awesome Data Science repository to learn and apply for real world problems.,
+788,dattatele,awesome-public-datasets,"An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!",
+789,dattatele,awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",Python
+790,dattatele,awesome-R,"A curated list of awesome R packages, frameworks and software.",R
+791,dattatele,awesome-real-estate,A curated list of awesome real estate related resources and projects,
+792,dattatele,awesome-spark,A curated list of awesome Apache Spark packages and resources.,
+793,dattatele,aws-redshift-to-rds,A simple command-line tool to copy tables from Amazon Redshift to Amazon RDS (PostgreSQL).,Haskell
+794,dattatele,beyond-jupyter,"All material from the PyCon.DE 2018 Talk ""Beyond Jupyter Notebooks - Building your own data science platform with Python & Docker""",
+795,dattatele,blaze,NumPy and Pandas interface to Big Data,Python
+796,dattatele,bokeh,Interactive Web Plotting for Python,Python
+797,dattatele,bqplot,Plotting library for IPython/Jupyter Notebooks,JavaScript
+798,dattatele,cc-mrjob,Demonstration of using Python to process the Common Crawl dataset with the mrjob framework,Python
+799,dattatele,cubes,Light-weight Python OLAP framework for multi-dimensional data analysis,Python
+800,dattatele,cubes-examples,Cubes OLAP Examples,Python
+801,dattatele,dash-lollapalooza-brasil-2018,🎟Plotly to visualize data from Lollapalooza ,HTML
+802,dattatele,dash-recipes,A collection of scripts and examples created while answering questions from the greater Dash community,Python
+803,dattatele,dash-sunburst,Dash component for Sunburst diagrams,Python
+804,dattatele,dash-table,A First-Class Interactive DataTable for Dash ,TypeScript
+805,dattatele,dashboards_server,Server that runs and renders Jupyter notebooks as interactive dashboards,JavaScript
+806,dattatele,dash_app,Reporting application of visitors to tourism destination. ,HTML
+807,dattatele,data-science-course,Data Science Course Materials - Fall 2014,Jupyter Notebook
+808,dattatele,DataSciencePython,common data analysis and machine learning tasks using python,Python
+809,dattatele,dataviz-with-python-and-js,The accompanying files for the book 'Dataviz with Python and JavaScript',Jupyter Notebook
+810,dattatele,dattatele.github.io,,HTML
+811,dattatele,deep-learning,Repo for the Deep Learning Nanodegree Foundations program.,Jupyter Notebook
+812,dattatele,docker-python,Kaggle Python docker image,Shell
+813,dattatele,electricity_price_dash_app,Reporting application with Dash ,Python
+814,dattatele,ember-real-estate-website,A real estate website built using Ember.js and Cosmic JS,JavaScript
+815,dattatele,example-requirements,A Binder-compatible repo with a requirements.txt file,Jupyter Notebook
+816,HarshaliWagh,CarND-Traffic-Sign-Classifier-Project,Classify Traffic Signs.,
+817,HarshaliWagh,Data-Mining,"In this repository, Apriori algorithm is implemented from scratch to find the frequent item set and strong association rule.",Python
+818,HarshaliWagh,data-science-projects,,Jupyter Notebook
+819,HarshaliWagh,dplyr,dplyr: A grammar of data manipulation,
+820,HarshaliWagh,Flight-data-analysis,,Java
+821,HarshaliWagh,HarshaliWagh,,
+822,HarshaliWagh,HITS-and-Pagerank-Algorithm,Java implementation of HITS and Pagerank Algorithm ,Java
+823,HarshaliWagh,Machine-Learning-Algorithms,These are coding assignments and projects for the CS 675 Machine Learning course.,Python
+824,HarshaliWagh,Module_1_Project,,Python
+825,HarshaliWagh,pandas_exercises,A series of Varying challenges which provide a good starting point/even a quick stop for brushing the Pandas skills. Topics Varying from Exploring Data all the way to Indexing,Jupyter Notebook
+826,HarshaliWagh,PortfolioCovid,A portfolio project for visualizing Covid Cases across the world,
+827,HarshaliWagh,python-spark-tutorial,,
+828,HarshaliWagh,r4ds,R for data science: a book,
+829,HarshaliWagh,Wine-quality-prediction,wine quality prediction codes for CS643 programming assignment,Python
+830,ivangoldov,image-generation,,Python
+831,ivangoldov,ml-mipt,Machine learning course at MIPT,Jupyter Notebook
+832,ivangoldov,spbuHomework,Ivan Goldov,Java
+833,ivangoldov,text-generation-3rd-sem,,Python

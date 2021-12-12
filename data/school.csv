@@ -1,0 +1,225 @@
+schoolID,school
+0,University Of Pennsylvania
+1,"Galvanize - San Francisco, Soma"
+2,Stanford University
+3,Harvard Extension School
+4,Wright State University
+5,Massachusetts Institute Of Technology
+6,Washington University In St. Louis
+7,"University Of California, Davis"
+8,Carnegie Mellon University
+9,University Of Northern Colorado
+10,Northeastern University
+11,"University Of California, Riverside"
+12,"University Of California, San Diego"
+13,University Of California San Diego
+14,Ira A. Fulton Schools Of Engineering At Arizona State University
+15,Galvanize Inc
+16,University Of Utah School Of Medicine
+17,"University Of California, Irvine"
+18,Udacity
+19,The George Washington University
+20,The University Of British Columbia
+21,The University Of Connecticut School Of Business
+22,The University Of Texas At Austin
+23,The University Of Texas At Austin - Red Mccombs School Of Business
+24,The Array School Of Technology And Design
+25,Rice University
+26,Springboard
+27,San Jose State University
+28,Purdue University
+29,University Of Central Missouri
+30,Harvard University
+31,University Of Florida
+32,Fordham University
+33,Illinois Institute Of Technology
+34,Flatiron School
+35,Northwestern University
+36,The University Of Texas At Dallas
+37,University Of Cincinnati Carl H. Lindner College Of Business
+38,Regis University
+39,Texas A&M University
+40,Johns Hopkins Whiting School Of Engineering
+41,Uc San Diego
+42,University Of Southern California
+43,University Of San Francisco
+44,Indiana University Bloomington
+45,University Of Connecticut
+46,University Of Delaware
+47,Iowa State University
+48,University Of Oregon
+49,Georgetown University
+50,Universidade Federal De Minas Gerais
+51,University At Buffalo
+52,University Of Washington
+53,Cornell University
+54,Southern Arkansas University
+55,Codeup
+56,University Of North Texas
+57,Stevens Institute Of Technology
+58,General Assembly
+59,"Covenant University,Ota"
+60,University Of Massachusetts Boston
+61,Uc Berkeley School Of Information
+62,Montana State Univeristy - Bozeman
+63,Iran University Of Science And Technology
+64,Drexel University
+65,University Of Pittsburgh School Of Computing And Information
+66,University Of Minnesota - Carlson School Of Management
+67,Southern Methodist University
+68,Yale University - Yale School Of Management
+69,Columbia University In The City Of New York
+70,Boston University - School Of Management
+71,University Of Texas At Dallas - Naveen Jindal School Of Management
+72,Salt Lake Community College
+73,Duke University
+74,Virginia Tech
+75,Columbia Law School
+76,Syracuse University
+77,University Of North Carolina At Chapel Hill
+78,Boston University
+79,University Of Minnesota-Twin Cities
+80,"University Of California, Berkeley"
+81,Uc Berkeley College Of Engineering
+82,Misr International University
+83,University Of Illinois Urbana-Champaign
+84,"University Of California, Santa Barbara"
+85,South Ural State University (Susu)
+86,University Of Nevada-Reno
+87,University Of Wyoming
+88,University Of Colorado Boulder
+89,Rutgers University–New Brunswick
+90,University Of Rochester
+91,"Indian Institute Of Technology, Delhi"
+92,University Of Houston
+93,Claremont Mckenna College
+94,Georgia Institute Of Technology
+95,Emory University
+96,Tufts University
+97,Virginia Commonwealth University
+98,North Carolina State University
+99,Cornell Tech
+100,The Australian National University
+101,University Of Illinois At Chicago
+102,University Of Toronto
+103,University Of Massachusetts Amherst
+104,George Mason University
+105,Penn State University
+106,University Of South Florida
+107,Brigham Young University
+108,Oklahoma State University
+109,Clemson University
+110,Binghamton University
+111,Universidad Politécnica Salesiana Del Ecuador
+112,Depaul University
+113,Stony Brook University
+114,University Of Southern California - Marshall School Of Business
+115,University Of Nebraska At Omaha
+116,University Of Colorado Denver
+117,University Of Idaho
+118,Florida International University
+119,University Of Illinois Springfield
+120,Syracuse University School Of Information Studies
+121,Hult International Business School
+122,"Galvanize - Seattle, Pioneer Square"
+123,Campbellsville University
+124,Louisiana State University
+125,Washington State University
+126,"University Of California, Santa Cruz"
+127,Ucla Anderson School Of Management
+128,The City University Of New York
+129,Saint Peter'S University
+130,New York Institute Of Technology
+131,Rochester Institute Of Technology
+132,Northwestern Polytechnic University
+133,University Of Missouri-Kansas City
+134,Michigan Technological University
+135,"Galvanize - Denver, Platte"
+136,New York University
+137,University Of Michigan-Dearborn
+138,Kl University
+139,Northwest Missouri State University
+140,Vnr Vignanajyothi Institute Of Engineering & Technology
+141,Osmania University
+142,Ferris State University
+143,Unt
+144,Lawrence Technological University
+145,University Of Cincinnati
+146,University Of North Carolina At Charlotte
+147,Uppsala University
+148,"University Of Arizona, Eller College Of Management"
+149,Birla Institute Of Technology
+150,Arizona State University - W. P. Carey School Of Business
+151,New Jersey Institute Of Technology
+152,University Of Mary Hardin-Baylor
+153,Maharishi International University
+154,Cdse
+155,Harrisburg University Of Science And Technology
+156,"Govind Ballabh Pant Engineering College,Uttarakhand Technical University"
+157,Sri Chaitanya Narayana Education Institutions
+158,Uc Irvine
+159,California Polytechnic State University-San Luis Obispo
+160,"Naveen Jindal School Of Management, Ut Dallas"
+161,Jawaharlal Nehru Technological University
+162,Dakota State University
+163,Texas Christian University - M.J. Neeley School Of Business
+164,University Of South Florida Muma College Of Business
+165,Wbut
+166,West Chester University Of Pennsylvania
+167,Amirkabir University Of Technology - Tehran Polytechnic
+168,University Of Cincinnati College Of Business
+169,York College Of The City University Of New York
+170,California State University - East Bay
+171,Santa Clara University
+172,Karpagam Institute Of Technology
+173,"Hyderabad Alumni Association Of Jntu College Of Engineering, Kakinada"
+174,St.Peter'S Engineering College
+175,Kakatiya University
+176,Jntuh College Of Engineering Hyderabad
+177,"Jawaharlal Nehru Technological University, Kakinada"
+178,Nirma University
+179,Sathyabama University
+180,"Kakatiya Institute Of Technology & Science, Yerragattu Hillocks, Bheemaram, Hasanparthy, Warangal"
+181,Acharya Nagarjuna University
+182,University Of Denver
+183,University Of New Haven
+184,Columbia Engineering
+185,Mcgill University
+186,Seoul National University
+187,Santa Clara University Leavey School Of Business
+188,Colorado State University
+189,Vanderbilt University
+190,Banasthali Vidyapith
+191,Bhoj Reddy Engineering College For Women
+192,California State University-Northridge
+193,State University Of New York At Buffalo - School Of Management
+194,University Of Rochester - Simon Business School
+195,"University Of California, Irvine - The Paul Merage School Of Business"
+196,National Institute Of Technology Warangal
+197,University Of Texas At Tyler
+198,Georgia State University - J. Mack Robinson College Of Business
+199,Rensselaer Polytechnic Institute
+200,Arizona State University
+201,Georgia State University
+202,University Of Illinois At Urbana-Champaign
+203,"California State University-Fullerton, Mihaylo College Of Business And Economics"
+204,Cleveland State University
+205,Pallavan College Of Engineering
+206,University Of Central Florida
+207,Sreenidhi Institute Of Science And Technology
+208,University Of Maryland - Robert H. Smith School Of Business
+209,California State University-Los Angeles
+210,University Of The Cumberlands
+211,Pace University - Seidenberg School Of Computer Science And Information Systems
+212,Michigan State University - The Eli Broad College Of Business
+213,University Of Maryland Baltimore County
+214,Bit
+215,San Diego State University
+216,"University Of Tennessee, Knoxville"
+217,"Jawaharlal Nehru Technological University, Hyderabad"
+218,Savitribai Phule Pune University
+219,Auburn University At Montgomery
+220,"Gandhi Institute Of Technology & Management (Gitam) University, Visakhapatnam"
+221,The University Of Texas At Arlington
+222,Grand Valley State University
+223,Lamar University

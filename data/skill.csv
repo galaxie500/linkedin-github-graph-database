@@ -1,0 +1,2518 @@
+skillID,skill
+0,Data Analysis
+1, Research
+2, High Performance Computing
+3, Statistical Modeling
+4, Scientific Writing
+5, Programming
+6, Machine Learning
+7, Mathematical Modeling
+8, Data Mining
+9, C
+10, C++
+11, Python
+12, Sql
+13, Teaching
+14, Predictive Analytics
+15, Algorithm Design
+16, Html / Php / Css
+17, Javascript / Jquery
+18, Database Design
+19, Business Analysis
+20, Statistics
+21, Forecasting
+22, Tableau
+23, Mongodb
+24, Git
+25, Pyspark
+26, Hadoop
+27, Aws
+28, Microsoft Sql Server
+29, Nlp
+30, Hypothesis Testing
+31, A/B Testing
+32, Predictive Modeling
+33,Computer Science
+34, Java
+35, Big Data
+36, Baking
+37, Video Production
+38, Scala
+39, Html
+40, Ruby On Rails
+41, Css
+42, Matlab
+43, Ruby
+44, Spark
+45, Ocaml
+46, Pthreads
+47, Openmp
+48, Mips
+49, Green Marl
+50,Management
+51, Data Science
+52, Analytics
+53, Data Analysis
+54, Business Intelligence
+55, Cloud Computing
+56, Product Development
+57, Patents
+58, Strategy
+59, Start-Ups
+60, Competitive Analysis
+61, Etl
+62, Business Development
+63, Data Warehousing
+64, Pandas
+65, Amazon Web Services (Aws)
+66, Google Cloud Platform (Gcp)
+67, R
+68, Software As A Service (Saas)
+69, Leadership
+70, Public Speaking
+71, Cross-Functional Team Leadership
+72, Presentation Skills
+73, Talent Management
+74, Data Analytics
+75, Bayesian Statistics
+76, Numpy
+77, Scipy
+78, Bokeh
+79,Python (Programming Language)
+80, Deep Learning
+81, Artificial Intelligence (Ai)
+82, Software Development
+83, Web Development
+84, Data Structures
+85, Statistical Data Analysis
+86, Unity
+87, Microsoft Office
+88, Team Foundation Server
+89, Github
+90, Java Database Connectivity (Jdbc)
+91, Artificial Neural Networks
+92, Database Management System (Dbms)
+93,Leadership
+94, Presentations
+95, Teamwork
+96, Reliability
+97, Computer Science
+98, Ios Development
+99, Signal Processing
+100, Software Engineering
+101, Algorithms
+102, React.Js
+103, Php
+104, Swift
+105, Javascript
+106, Microsoft Excel
+107, Amazon S3
+108, Aws Elastic Beanstalk
+109, Postgresql
+110, Latex
+111, Time Management
+112, French
+113, Turkish
+114, English
+115, Quantative Analysis
+116, Regression Analysis
+117, Audio Processing
+118, Fourier Analysis
+119, Logistic Regression
+120, Linear Regression
+121, 5G
+122, Software Engineering Practices
+123, Calculus
+124, Probability
+125, Google Sheets
+126, Amazon Ec2
+127, Typescript
+128, Hard-Working
+129, Enthusiasm
+130, Efficiency
+131, Fourier Transform
+132, Physics
+133, Monte Carlo Simulation
+134, C/C++
+135, Linux
+136, Arcgis
+137, Tensorflow
+138, Geant4
+139, Semiconductor Device Process
+140, R Programming
+141, Github/Git
+142,Data Science
+143, Python (Programming Language)
+144, Data Visualization
+145, Pandas (Software)
+146, Flask
+147, Statsmodels
+148, Seaborn
+149, Docker
+150, Matplotlib
+151, Apache Spark
+152, Neural Networks
+153, Random Forest
+154, Gradient Boosting
+155, Supervised Learning
+156, Unsupervised Learning
+157, Scikit-Learn
+158, Classification
+159, Koalas
+160, Clustering
+161,Python
+162, Mapreduce
+163, Search Engine Technology
+164,Microsoft Word
+165, Quantitative Research
+166, Analysis
+167, Powerpoint
+168, Spss
+169, Customer Service
+170, Qualitative Research
+171, Excel Dashboards
+172, Natural Language Processing (Nlp)
+173, Data Modeling
+174, Interpreting
+175, Multilingual
+176, Keras
+177, Anaconda
+178, Blockchain
+179, Solidity
+180, Ethereum
+181, R (Programming Language)
+182, Microsoft Powerpoint
+183, Communication
+184, Mandarin
+185, Machine Learning Algorithms
+186, Cryptography
+187, Cryptocurrency
+188, Blockchain Analysis
+189, Interpretation
+190, Natural Language Processing
+191,Machine Learning
+192, Image Processing
+193, Electronics
+194, Computer Vision
+195, Microcontrollers
+196, Audio Engineering
+197, Virtualization
+198, Mysql
+199, Aws Sagemaker
+200, Vhdl
+201, Pytorch
+202, Sqlite
+203, Relational Databases
+204, C (Programming Language)
+205, Digital Signal Processing
+206, Smote
+207, Scilab
+208, Gnu Octave
+209, Stock Market Analysis
+210, Linear Algebra
+211, Stochastic Processes
+212, Microprocessors
+213, Numerical Linear Algebra
+214, Optimal Control
+215, Opencv
+216, Convolutional Neural Networks (Cnn)
+217, Vmware Fusion
+218, Vmware Workstation
+219, Devops
+220, Gluoncv
+221, Apache Mxnet
+222, Vim
+223, Market Analysis
+224, Chinese
+225, Spark Sql
+226, Analytical Skills
+227, Logistics Management
+228, Quantitative Analytics
+229, Windows
+230, Microsoft Word
+231, Team Leadership
+232, Eda
+233, Panda
+234,Microsoft Office
+235, Marketing
+236, Project Management
+237, Customer Relationship Management (Crm)
+238, R Programing
+239, Photoshop
+240, Snowflake
+241, Predictive Maintenance
+242, Regression
+243, Management Consulting
+244, Strategic Planning
+245, Risk Analysis
+246, Underwriting
+247, Market Research
+248, Spreadsheet Modeling
+249, Product Management
+250, Insurance
+251, Investment Strategies
+252, Econometrics
+253, Program Evaluation
+254, Management Science
+255, Product Management Skills
+256, Automl
+257, Sas
+258, Geographic Information Systems (Gis)
+259, Stata
+260, Team Management
+261, Decision Analytics
+262, Stochastic Optimization
+263, Automated Machne Learning
+264,R
+265, Ggplot
+266, Fda
+267, Quality System
+268, Medical Devices
+269, Root Cause Analysis
+270, Six Sigma
+271, Biomedical Engineering
+272, Fmea
+273, Corrective And Preventive Action (Capa)
+274, Looker (Software)
+275, H2O.Ai
+276, Google Bigquery
+277, Vba
+278, Solidworks
+279, Qlikview
+280, Problem Solving
+281, Process Improvement
+282, Digital Marketing
+283, Google Data Studio
+284, Data Scraping
+285, Product Analysis
+286, Web Scraping
+287, Fraud Prevention
+288, Recommender System
+289, Chemistry
+290, Chemical Engineering
+291, Laboratory
+292, Mathematics
+293, Research And Development (R&D)
+294, Aspen Plus
+295, Galaxy
+296, Genetic
+297, Relational Database
+298, Statistical Inference
+299, Time Series Analysis
+300, K-Means Clustering
+301, Exploratory Data Analysis
+302, Data Wrangling
+303, 머신러닝
+304, Higher Education
+305,Sql
+306, Information Management
+307, Information Systems Strategy
+308, Information Systems
+309, Sas Programming
+310, Web Analytics
+311, D3.Js
+312, Databases
+313, Ssis
+314, C#
+315, Cloudera Impala
+316, Vb.Net
+317, Unix
+318, Visio
+319, Eclipse
+320, Nosql
+321, Lookml
+322, Data Cubes
+323, Hive
+324, Apache Pig
+325,Machine Learning Algorithms
+326, Marketing Strategy
+327, Agile Methodologies
+328, Cascading Style Sheets (Css)
+329, Html5
+330, Management
+331, Internet Of Things (Iot)
+332, Image Recognition
+333, Big Data Analytics
+334, Image Segmentation
+335, Object Detection
+336, Yolo V3
+337, Electrical Engineering
+338, Embedded Systems
+339, Verilog
+340,Statistics
+341, Science
+342, Experimental Design
+343, Neuroscience
+344, Research Design
+345, Adobe Illustrator
+346, Tidyverse
+347, Clojure
+348, Regression Models
+349, Cognitive Neuroscience
+350, Experimental Psychology
+351, Music Cognition
+352, Psychophysics
+353, Cognitive Psychology
+354, Mixed-Effects Models
+355, Motion Capture
+356, Maxmsp
+357, Data Cleaning
+358, People Analytics
+359, Human Behavior
+360, Bayesian Inference
+361, Causal Inference
+362, Information Retrieval
+363, Business Intelligence (Bi)
+364, Extract
+365, Transform
+366, Load (Etl)
+367, Text Mining
+368, Neo4J
+369, Android Development
+370, Databricks
+371, Objective-C
+372, Xcode
+373, Android
+374, Oracle Sql Developer
+375, Docker Products
+376, Sparql
+377, Triple Store
+378, Android Studio
+379,Business Analytics
+380, Key Performance Indicators
+381, Organization Skills
+382, Qualitative & Quantitative Research Methodologies
+383, Operational Strategy
+384, Elastic Stack (Elk)
+385, Hbase
+386, Elasticsearch
+387, Kibana
+388, Natural Language Processing Toolkit
+389, Heroku
+390, Security
+391, Operating Systems
+392,Ruby On Rails
+393, Version Control
+394, Ux
+395, Scrum
+396, Web Applications
+397, User Interface Design
+398, Web Design
+399, Front-End Development
+400, Sass
+401, Jquery
+402, Git Flow
+403, Visual Studio
+404, Node
+405, Spanish
+406, Italian
+407, Front-End Design
+408, Atom
+409, Sourcetree
+410, Atom Text Editor
+411, Codekit
+412, Networking
+413, Mvc
+414, Back-End Web Development
+415,Java
+416, Critical Thinking
+417,Account Management
+418, Customer Product Training
+419, Office Management
+420, B2B Sales
+421, Solution Selling
+422, Technology Sales
+423, Hierarchical Clustering
+424, Business Analytics
+425, Jupyter
+426, Jinja
+427, Customer Support
+428, Training
+429, Question Based Selling
+430, Customer Service Training
+431, Statistical Analysis
+432, Data Manipulation
+433, Strategic Data Analysis
+434, Dbt
+435, Community Outreach
+436, Social Media
+437, Recurrent Neural Networks (Rnn)
+438, Oracle Database
+439, Kaggle
+440, Team Building
+441, Interpersonal Skills
+442, Punjabi
+443, Data Classification
+444, Object-Oriented Programming (Oop)
+445, Xgboost
+446, Database Development
+447, Statsmodel
+448, Word2Vec
+449,Artificial Intelligence (Ai)
+450, Business Management
+451, Contract Management
+452, Project Engineering
+453, Medical Imaging
+454, Engineering
+455, Project Control
+456, Deep Neural Networks (Dnn)
+457, Programming Languages
+458, Image Analysis
+459, Confocal Microscopy
+460, Entrepreneurship
+461, New Business Development
+462, Mathematica
+463, Looker
+464, Negotiation
+465, Start-Up Consulting
+466, Cluster Analysis
+467, Bayesian Models
+468, Clustering Analysis
+469, Classification Models
+470, Knowledge Graphs
+471, Data Collection
+472, Nonprofit Organizations
+473, Simulations
+474, Research (Psychology)
+475, Empirical Research
+476, Json
+477, Xml
+478, Bootstrap
+479, Sklearn
+480, H2O
+481,Data Visualization
+482, Pivot Tables
+483, Microsoft Power Bi
+484, Jira
+485, Aws S3
+486, Aws Lambda
+487, Sql Server Integration Services (Ssis)
+488, Confluence
+489, Aws Ec2
+490, Glm
+491, Sql Server Analysis Services (Ssas)
+492, Lesson Planning
+493, Education
+494, K-12 Education
+495, Secondary Education
+496, Curriculum Development
+497, Biology
+498, Microsoft Outlook
+499, Mentoring
+500, Science Education
+501, Biology Education
+502, Group Lessons
+503, Stem
+504, Machining
+505, Lean Manufacturing
+506, Manufacturing Engineering
+507, Supply Chain Management
+508, Manufacturing Operations Management
+509, Spc
+510, R&D
+511, Design Of Experiments
+512, Black Belt
+513, Sql Server Reporting Services (Ssrs)
+514, Visual Basic For Applications (Vba)
+515, Minitab
+516, Plotly
+517, Data Engineering
+518, Multivariate Analysis
+519, Spotfire
+520, Rapid Response
+521, Weka
+522, Heuristics
+523, Data Management
+524, Reporting & Analysis
+525, Wireframing
+526, Web Content Writing
+527, User Experience (Ux)
+528, Knowledge Management
+529, User Stories
+530, Angularjs
+531, Storytelling
+532, Talend Open Studio
+533, Alteryx
+534, Dashboard
+535, Business Intelligence Tools
+536, Etl Tools
+537, Assembly Language
+538,Problem Solving
+539, Operations Management
+540, Agile
+541, Power Bi
+542, Node.Js
+543, Apigee Api Management
+544, R Shiny
+545, Azure
+546, Multidimensional Expressions (Mdx)
+547, Dax
+548, Decision Trees
+549, Arima
+550, Stacking
+551, Boosting
+552,Business Intelligence
+553, Financial Analysis
+554, .Net Framework
+555, Asp.Net
+556, Transact-Sql (T-Sql)
+557, Microsoft Azure
+558, Business Acumen
+559, Biztalk
+560, Analysis Services
+561, Software Quality Assurance
+562, Software Documentation
+563, Testing
+564, Test Planning
+565, Healthcare Information Technology
+566, Hl7
+567, Quality Assurance
+568, Requirements Analysis
+569, Sdlc
+570, Systems Analysis
+571, User Acceptance Testing
+572, Integration
+573, Business Process Improvement
+574, Software Development Life Cycle (Sdlc)
+575, Business Requirements
+576, Regression Testing
+577, Epic Systems
+578, Sharepoint
+579, Quality Center
+580, Hdfs
+581, Gurobi
+582, Pyomo
+583, Linear Programming
+584,Microsoft Excel
+585, Outlook
+586, Access
+587, Visual Basic
+588, Healthcare Analytics
+589, Computer Network Operations
+590, Unity3D
+591, Android Sdk
+592, Theoretical Computer Science
+593, Genetic Algorithms
+594, Discrete Mathematics
+595, Risk Management
+596, Distributed Systems
+597, Amazon Relational Database Service (Rds)
+598, Economics
+599, Financial Economics
+600, Discrete Choice
+601, Panel Data Analysis
+602, Music
+603, Test Automation
+604, Angular
+605, Junit
+606, Hibernate
+607, Spring Mvc
+608, Spring Boot
+609, Rest Api
+610, Maven
+611, Tomcat
+612, Postman Api
+613, Swagger Api
+614, Rest Apis
+615, Restful Webservices
+616, Spring Data
+617, Apache Kafka
+618, Single Page Applications
+619, Rdbms
+620, Api Development
+621, Artificial Intelligence
+622, Autocad
+623, Ansys
+624, Arduino
+625, Creo
+626, Process Automation
+627, Microstation
+628, Ptv Vissim
+629, Sketchup
+630, Collaborative Problem Solving
+631, Interpersonal Communication
+632, Conflict Resolution
+633,Html
+634, Scripting
+635, Responsive Web Design
+636, Chart.Js
+637, Written Communication
+638, Creative Problem Solving
+639, Viruses
+640, Crm
+641, Business Process
+642, Financial Modeling
+643, Forecasting Models
+644, Sap
+645, Decision-Making
+646, Model Validation
+647, Dimensionality
+648, Machine V
+649, Applied Machine Learning
+650, Pattern Recognition
+651,Data Warehousing
+652, Master Data Management
+653, Soa
+654, Oracle
+655, Informatica
+656, Perl
+657, Amazon Web Services
+658, Db2
+659, Websphere
+660, Teradata
+661, Dimensional Modeling
+662, Redis
+663, Greenplum
+664, Oltp
+665, Datastage
+666, Sphinx
+667, Ab Initio
+668, Molecular Biology
+669, Western Blotting
+670, Pcr
+671, Biochemistry
+672, Organic Chemistry
+673, Shell Scripting
+674, Ipython
+675, Isothermal Titration Calorimetry
+676, Dask
+677,Quantitative Analytics
+678, Macroeconomics
+679, Competition Law
+680, Economic Research
+681, Econometric Modeling
+682, Economic Policy
+683, International Relations
+684, Spatial Analysis
+685, Shiny
+686, Statistical Computing
+687, Business
+688, Engenharia Civil
+689, Sales
+690, Logística
+691, Transportes
+692, Gestão Da Qualidade
+693, Administrativo
+694, Tradução
+695, Ciência De Dados
+696, Gestão
+697, Inglês
+698, Francês
+699, Perícia
+700, Engenharia De Segurança
+701, Gestão Ágil
+702, Perícia De Insalubridade E Periculosidade
+703, Proj4Me
+704, Biotechnology
+705, Venture Capital
+706, Due Diligence
+707, Investments
+708, Adobe Creative Suite
+709, Salesforce.Com
+710, Laboratory Research
+711, Life Science Industry
+712, Synthetic Biology
+713, Technology Development
+714, Subcloning
+715, Deal Sourcing
+716, Ngs
+717, Dna Sequencing
+718, Biotechnology Industry
+719,C++
+720, Pl/Sql
+721, Javascript Libraries
+722, Socket Programming
+723, Object-Relational Mapping (Orm)
+724, Macos
+725, Uml
+726, Ubuntu
+727, Django
+728, Bash
+729, Graphical User Interface (Gui)
+730, Express
+731, Api
+732, Amazon Dynamodb
+733, Event Planning
+734, Editing
+735, Financial Reporting
+736, Real Estate
+737, Japanese
+738, Amazon Redshift
+739,Teaching
+740, Computational Fluid Dynamics (Cfd)
+741, Oil & Gas
+742, Modeling
+743, Tensor Flow
+744, University Teaching
+745, Production Engineering
+746, Full-Stack Development
+747, Financial Markets
+748, Long Short-Term Memory (Lstm)
+749, Recommender Systems
+750, Bayesian Methods
+751, Applied Mathematics
+752, Applied Statistics
+753,Hadoop
+754, Core Java
+755, Jenkins
+756, Azure Devops
+757, Sqoop
+758, Yarn
+759, Continuous Integration And Continuous Delivery (Ci/Cd)
+760, Control M
+761, Urban Code Deployemnt
+762, Water Fall Methode
+763, Talend Open Studio For Bigdta
+764, Team Motivation
+765, Self Learning
+766, Project Management Fundamentals
+767, Manual Testing
+768, Test Cases
+769, Process Management
+770, Business Process Re-Engineering
+771, Process Modeling
+772, Information System Design
+773, Software System Analysis
+774, Bugzilla
+775, Testlink
+776, Selenium Testing
+777,Online Research
+778, Copy Editing
+779, Hospitals
+780, Basic Life Support (Bls)
+781, Online Journalism
+782, News Writing
+783, Public Relations
+784, Social Media Marketing
+785, Seo Copywriting
+786, Beautiful Soup
+787, Google Slides
+788, Angular Command Line Interface (Cli)
+789, Git Bash
+790, Engineering Data Management
+791, Technical Presentations
+792, Data Infrastructure
+793, Data Models
+794, Configuration Management
+795, Microsoft
+796,Ios Development
+797, Product Design
+798, User Experience Design
+799, Creativity Skills
+800, Mobile Application Development
+801, Express.Js
+802, Java Web Services
+803,Design Of Experiments
+804, Process Simulation
+805, Failure Analysis
+806, Process Engineering
+807, Continuous Improvement
+808, Sem
+809, Manufacturing
+810, Uv-Vis
+811, Tga
+812, Differential Scanning Calorimetry
+813, Rheology
+814, Afm
+815, Electronics Packaging
+816, Semiconductor Packaging
+817, Cross-Cultural Teams
+818, Eds
+819, Polymer Characterization Techniques
+820, Multitasking Skills
+821, Assembly Technology
+822, Microsections
+823, Wirebond
+824, Design Expert
+825,Petroleum
+826, Reservoir Simulation
+827, Petroleum Engineering
+828, Reservoir Engineering
+829, Energy
+830, Upstream
+831, Gas
+832,Modeling
+833, Finite Element Analysis
+834, Gas Turbines
+835, Abaqus
+836, Rotordynamics
+837, Fluid Film Bearing Design And Analysis
+838, Optimization
+839, Distributed Algorithms
+840, Code Generation
+841, Haskell
+842, Go
+843,Web Analytics
+844, Search Engine Optimization (Seo)
+845, Google Adwords
+846, Google Analytics
+847, Lightroom
+848, Drracket
+849, Email Analytics
+850, Enneagram
+851,Telecommunications
+852, 3G
+853, Wireless
+854, 4G
+855, Vendor Management
+856, Voice Over Ip (Voip)
+857, Network Administration
+858, Routing
+859, Quality Of Service (Qos)
+860, Troubleshooting
+861, Internet Protocol Suite (Tcp/Ip)
+862, Open Shortest Path First (Ospf)
+863, Border Gateway Protocol (Bgp)
+864, Switches
+865, Windows Server
+866, Iot
+867, Wireshark
+868, Automated Software Testing
+869, Finance
+870, Jquery Ui
+871, K-Nearest Neighbors (Knn)
+872, Gru
+873, Digital Signal Processors
+874, Bayesian Networks
+875, Markov Chain Monte Carlo
+876, Hidden Markov Models
+877,Team Leadership
+878, Bioinformatics
+879, Agarose Gel Electrophoresis
+880, Qubole
+881, Business Insights
+882, Diversity
+883,Mysql
+884, J2Ee Application Development
+885, Luigi
+886, Robotics
+887, Software
+888, Prototyping
+889, Probability Theory
+890, Robot
+891, Minio
+892, Fintech
+893,Computer Vision
+894, Rasa Platform
+895, Dialogflow
+896, Flutter
+897, Natural Language Understanding
+898,Jmp
+899, Instrumentation
+900, Labview
+901, Sql Server Management Studio
+902, Sas E-Miner
+903, Oracle Forms
+904, Microsoft Suites
+905, Crystal Ball
+906, Relational Data Modeling
+907, Sql Azure
+908, Valuation
+909, Real Estate Financing
+910, Business Strategy
+911, Commercial Real Estate
+912, Equities
+913, Investment Banking
+914, Asset Management
+915, Corporate Finance
+916, Portfolio Management
+917, Real Estate Economics
+918, Bloomberg
+919, Argus Modeling
+920, Argus
+921, R Markdown
+922, Call Centers
+923, Database Marketing
+924, Financial Services
+925, Workforce Planning
+926, Workforce Management
+927, Kotlin
+928, Lotus Notes
+929, Cloudkit
+930, Arkit
+931, Relationship Management
+932, Sketch
+933, Core Graphics
+934, Core Data
+935, Augmented Reality
+936, Uikit
+937, Ios Design
+938, Blender
+939, Iex Total View
+940, Ewfm
+941,Network Security
+942, Information Security
+943, Information Technology
+944, Spl
+945, Splunk
+946, Number Theory
+947, Pure Mathematics
+948,Analytics
+949, Pricing Strategy
+950, Multiplicative Models
+951, Mixed Model
+952,Organic Chemistry
+953, Synthetic Organic Chemistry
+954, Nmr Spectroscopy
+955, Hplc
+956, Analytical Chemistry
+957, Organic Synthesis
+958, High-Performance Liquid Chromatography (Hplc)
+959, Nuclear Magnetic Resonance (Nmr)
+960, Gc-Ms
+961, Ir
+962, Organosulfur Chemistry
+963, Gpu Acceleration
+964,Bioinformatics
+965, Computational Biology
+966, Genomics
+967, Genetics
+968, Cancer
+969, Software Design
+970, Object Oriented Design
+971, Sequence Analysis
+972, Sequencing
+973, Scientific Computing
+974, Population Genetics
+975, Bioconductor
+976, Microarray Analysis
+977, Refactoring
+978, Human Genetics
+979, Statistical Genetics
+980, Static Analysis
+981, Security Testing
+982, Gui
+983, Model Checking
+984, Software Model Checking
+985, Inferential Statistics
+986, Social Network Analysis
+987, Network Science
+988, Sparksql
+989, Cytoscape
+990, Gephi
+991, Reproducible Research
+992, Economic Modeling
+993, Spatial Modeling
+994, Tennis Elbow
+995, Mud Logging
+996, Fruity Loops
+997, Ear Candling
+998, Cat Herding
+999, Dog Aggression
+1000, Specific Gravity
+1001, Sandwiches
+1002, Archery
+1003, Handball
+1004, Scooters
+1005, Flower Essences
+1006, Alto Flute
+1007,Neural Networks
+1008, Indesign
+1009, Illustrator
+1010, Adobe Xd
+1011, Microsoft Power Automate
+1012, Revit
+1013, Capital Markets
+1014, Commercial Litigation
+1015, Securities Regulation
+1016, Restructuring
+1017, Fraud
+1018, Securities Law
+1019, Structured Finance
+1020, Torch
+1021, Distressed Assets
+1022, Securities Fraud
+1023, Special Situations
+1024, Distressed Debt
+1025, Valuation Modeling
+1026,Apache Spark
+1027, Ampl
+1028,Wordpress
+1029, Front-End
+1030, Ajax
+1031, Xhtml
+1032, Content Management Systems (Cms)
+1033, Cms
+1034, Psd To Wordpress
+1035, Obiee
+1036, Php Applications
+1037, Ai
+1038, Intercultural Communication
+1039, Mergers & Acquisitions (M&A)
+1040, Survey Design
+1041, Credit Analysis
+1042, Investment Analysis
+1043, Salesforce
+1044, Stan
+1045, Amazon Elastic Mapreduce (Emr)
+1046, Computational Statistics
+1047, Network Analysis
+1048, Bayesisan Regression
+1049, Qualtrics
+1050, Strategic Finance
+1051, Healthcare
+1052, Medicare
+1053, Actuarial
+1054, Disease Management
+1055, Risk Adjustment
+1056, Medicaid
+1057, Outcomes Research
+1058, Multithreading
+1059, Design Patterns
+1060, Tcp/Ip
+1061, Ospf
+1062, Network Security
+1063, Bgp
+1064, Oop
+1065, Representational State Transfer (Rest)
+1066, Cisco Ios
+1067, Cisco Technologies
+1068, Cisco
+1069, Routing Protocols
+1070, Mercurial
+1071, Pyramid
+1072, Multiprocessing
+1073, Mobile Payments
+1074, Cash Flow Forecasting
+1075, Customer Retention
+1076, Health Insurance
+1077, E-Commerce
+1078, Seo
+1079, Bitbucket
+1080, Azure Databricks
+1081, Octave
+1082, Mobile Analytics
+1083, Ad Hoc Reporting
+1084, Accounting
+1085, Derivatives
+1086, Bloomberg Terminal
+1087, Ordinary Differential Equations
+1088, Stochastic Calculus
+1089, Interest Rate Modeling
+1090, Optimization Techniques
+1091, Pycharm
+1092, Quantitative Finance
+1093, Energy Markets
+1094, Sports Analytics
+1095, Internal Audit
+1096, Internal Controls
+1097, Financial Audits
+1098, It Audit
+1099, Consulting
+1100, Excel
+1101, Lisp-Scheme
+1102, Innovation
+1103, Batch Files
+1104,Strategy
+1105, Segmentation
+1106, Pricing
+1107, Consumer Behaviour
+1108, Market Planning
+1109, Product Marketing
+1110, Go-To-Market Strategy
+1111, Marketing Research
+1112, Consumer Behavior
+1113, Strategic Thinking
+1114, Marketing Communications
+1115, Business Case Modelling
+1116, Concept Generation
+1117, Pricing Optimization
+1118, Business Model Transformation
+1119, Business Model Innovation
+1120, Sustainable Business Strategies
+1121, Customer Value Creation
+1122, Pricing Analysis
+1123, Analytical Modelling
+1124, Launch Strategies
+1125, Corporate Strategy Formulation
+1126, Business Impact Analysis
+1127, Innovative Thinking
+1128, Aws Ec2 On-Demand Servers
+1129, Heat Map
+1130, Tkinter
+1131, Building Effective Relationships
+1132, Requests
+1133, 数据科学
+1134, 分析学
+1135, 数据
+1136, 普通话
+1137, Lean Six Sigma
+1138, Wireline Logging
+1139, Spider
+1140, Random Forests
+1141, Support Vector Machines
+1142, Beautifulsoup
+1143, Bayesian Modelling
+1144, Mixture Models
+1145, Corporate Communications
+1146, Numerical Analysis
+1147, Selenium
+1148, Russian
+1149, Cosmology
+1150, Jupiter Notebooks
+1151, Differential Equations
+1152, Nltk
+1153, Lightgbm
+1154, Trello
+1155, Open Api
+1156, Mac
+1157, Sci-Kit
+1158, Open3D
+1159, Application Development
+1160, Swift (Programming Language)
+1161, Point Of Sale (Pos) Systems
+1162, Terminal
+1163, Financial Econometrics
+1164, Guitar
+1165, Photography
+1166, System On A Chip (Soc)
+1167, Field-Programmable Gate Arrays (Fpga)
+1168, Simulink
+1169, Adobe Photoshop
+1170, Altera Quartus
+1171, X86 Assembly
+1172, Cuda
+1173, Virtual Reality
+1174, Linux Kernel
+1175, Parallel Programming
+1176, System Verilog
+1177, Nios Ii
+1178, Datamining
+1179, Communication Skills
+1180, Statistical Consulting
+1181, Agile Project Management
+1182, Storyboarding
+1183, Business Plan Formulation
+1184, Saas
+1185, Mobile Application Design
+1186, Tableau Online
+1187, Web Services Api
+1188,Software Engineering
+1189, Operations Research
+1190, Military
+1191, Optimizations
+1192, Backbone.Js
+1193, Decision Analysis
+1194, Underscore.Js
+1195, Application Programming Interfaces
+1196, Banking
+1197, Software Installation
+1198, Sparkr
+1199, Apache Spark Ml
+1200, Evolutionary Computation
+1201, Social Networking
+1202, Kubernetes
+1203, Jupyter Notebook
+1204, Google Colab
+1205, Pil
+1206, Classification Modeling
+1207, Image Classification
+1208,Knowledge Discovery
+1209, Football
+1210, Basketball
+1211, Machine Tools
+1212, Gensim
+1213, Aws Codecommit
+1214, Amazon Cognito
+1215, Soft Skills
+1216, Apache Solr
+1217, Stanford Nlp Tools
+1218, Graph Theory
+1219, Raspberry Pi
+1220, Psoc
+1221, Chess
+1222, Information Extraction
+1223, Aws Amplify
+1224, Aws Api Gateway
+1225, Financial Accounting
+1226, Problem Management
+1227, Romanian
+1228, High Level Of Accuracy
+1229,Predictive Modeling
+1230, Metallurgy
+1231, Jmp
+1232, Continuous Casting
+1233, Extractive Metallurgy
+1234, Text Analytics
+1235, Reinforcement Learning
+1236, Personalization
+1237,Spectroscopy
+1238, Microservices
+1239, Astronomy
+1240, Astronomy Education
+1241, Graph
+1242, Instrumentation And Optics
+1243,Amazon Web Services (Aws)
+1244, U.S. Health Insurance Portability And Accountability Act (Hipaa)
+1245, Dell Boomi
+1246, Solver
+1247, Talend
+1248, Rstudio
+1249, Support Vector Machine (Svm)
+1250, Xlminer
+1251, Serverless Computing
+1252,Research
+1253, Polymerase Chain Reaction (Pcr)
+1254, Computer Networking
+1255, Cgmp Practices
+1256, Redcap
+1257, Biomedical Informatics
+1258, Pgadmin
+1259, Molecular Genetics
+1260, Google Api
+1261, Opengl
+1262, Unix Shell
+1263, Css Flexbox
+1264, Mongoose Odm
+1265, React Native
+1266, Firebase
+1267, Html/Css
+1268, Continuous Delivery
+1269, Continuous Integration
+1270, Computer Simulation
+1271, Consumer Electronics
+1272, Bert
+1273, Tensorboard
+1274, Personal Development
+1275, Altium Designer
+1276, Language Modeling
+1277, Operations
+1278, Nonprofits
+1279,Android Development
+1280, Academic Writing
+1281, Academic Advising
+1282, Mobile Applications
+1283,Microsoft Power Bi
+1284, Spreadsheets
+1285, Data Entry
+1286, Google Suite
+1287, Wordpress
+1288, Google Apps Script
+1289, Common Lisp
+1290, Writing
+1291, Software Engineers
+1292, Multitasking
+1293, Creativity
+1294, Team Coordination
+1295, Bilingual
+1296, Netlogo
+1297, Wpf Development
+1298, Kinect
+1299, Openshift
+1300, Algorithm Development
+1301, Test Driven Development
+1302, Software Deployment
+1303, Enterprise Resource Planning (Erp)
+1304, Microsoft Dynamics Ax
+1305, X++
+1306, Query Writing
+1307,Entrepreneurship
+1308, Social Entrepreneurship
+1309, Video Editing
+1310, Video Post-Production
+1311, Adobe Premiere Pro
+1312, Persuasive Presentations
+1313, Database Queries
+1314, Application Frameworks
+1315, Creative Writing
+1316, Thai
+1317, Rest
+1318, Design Thinking
+1319, Principal Component Analysis
+1320, Neo4J Graph Database
+1321, Data Intelligence
+1322, Design Of Experiments (Doe)
+1323, Modeling And Simulation
+1324, Jags
+1325, Hierarchical/Mixed-Effects Models
+1326, Generalized Linear Models
+1327, Maximum Likelihood Estimation
+1328, Feature Engineering
+1329, Simulation Analysis
+1330, Credit Risk
+1331, Nanotechnology
+1332, Materials Science
+1333, Html Scripting
+1334, Regular Expressions
+1335, Database Administration
+1336, Chatbot Design
+1337, Data Quality
+1338, Hadoop Administration
+1339, Chatbot Development
+1340, Cloud Development
+1341, Mahout
+1342, Java Enterprise Edition
+1343, Mvc Architecture
+1344, Field Work
+1345, Event Management
+1346, Piano
+1347, Digital Photography
+1348, Music Theory
+1349, Travis Ci
+1350, Microsoft Azure Machine Learning
+1351, Dplyr
+1352, Windows Movie Maker
+1353, Nvivo
+1354, Microsoft Teams
+1355, Korean
+1356, Vietnamese
+1357,Focused
+1358, Cross-Cultural Communication Skills
+1359, Professional Services
+1360, Fundraising
+1361, Helping Clients
+1362, Servicenow
+1363, Penetration Testing
+1364, Ansible
+1365, Connect Direct
+1366, Ibm Aix
+1367, Netezza
+1368, Sql Netezza
+1369,Customer Service
+1370, Financial Planning
+1371, Lasso
+1372, Lars
+1373, Anomaly Detection
+1374, Oracle Data Integrator (Odi)
+1375, Data Integration
+1376, Oracle E-Business Suite
+1377, Netbeans
+1378, Sql Developer
+1379, Workbench
+1380, Er/Studio
+1381, A Management
+1382, Keil
+1383, Originlab
+1384, Computational Chemistry
+1385, Mpi
+1386, Physical Chemistry
+1387, Biophysics
+1388, Vmd
+1389, Molecular Dynamics
+1390, Charmm
+1391, Gaussian 03
+1392, Namd
+1393, User Experience
+1394, User Research
+1395, Eye Tracking
+1396, E-Prime
+1397, Terrafrom
+1398, Airflow
+1399, Database Management
+1400, Geometric Dimensioning & Tolerancing
+1401, Sap Netweaver Business Warehouse (Sap Bw)
+1402, Advanced Excel
+1403, Solid Edge
+1404, Siemens Nx
+1405, Qlik Sense
+1406, Sap Lumira
+1407, Sap Hana
+1408, Winge-0
+1409, System Analytics And Project Management
+1410, Enventive
+1411, Tolerance Analysis
+1412,Ciencia De Datos
+1413, Investigación Y Desarrollo
+1414, Inteligencia Artificial
+1415, Research And Development
+1416, Aplicaciones Móviles
+1417, Robótica
+1418, Lenguaje Ensamblador
+1419, Cloud Firestore
+1420, Sistemas Embebidos
+1421, Google Cloud
+1422, Ibm Cloud
+1423, Bases De Datos
+1424, Realidad Aumentada
+1425, Dirección De Proyectos
+1426, Dart
+1427, Intellij Idea
+1428, Events Planning
+1429, Data Processing
+1430, Test Engineering
+1431, Data Pipelines
+1432, Equity Research
+1433, Garch
+1434, Classifiers
+1435, Svm
+1436, .Net
+1437, Visual C#
+1438, Html 5
+1439, C++ Language
+1440, Css3
+1441, Microstrategy
+1442, Autosys
+1443, Ethical Hacker
+1444, Mongoose
+1445, Data Conversion
+1446, Collaborative Work
+1447, Economic Analysis
+1448, Technology Commercialization
+1449, General Ledger
+1450, Accounts Payable
+1451, Fixed Assets
+1452, Tax Preparation
+1453, Sarbanes-Oxley Act
+1454, Journal Entries
+1455, Tax Accounting
+1456, Gaap
+1457, Financial Statements
+1458, International Tax
+1459, Tax Research
+1460, Corporate Tax
+1461, Account Reconciliation
+1462, Auditing
+1463, External Audit
+1464, Sales Tax
+1465, Sarbanes-Oxley
+1466, Income Tax
+1467, Us Gaap
+1468, Sec Filings
+1469, U.S. Sec Filings
+1470, Tax
+1471, Generally Accepted Accounting Principles (Gaap)
+1472, Mis
+1473, Tax Returns
+1474, Cpa
+1475, Partnership Taxation
+1476, Market Basket Analysis
+1477, Association Rules
+1478, Topic Modelling
+1479, Sentiment Analysis
+1480, Investment Management
+1481, Mergers & Acquisitions
+1482, Multicultural Communication
+1483, Tai Chi Chuan
+1484, Onnx
+1485, Content Marketing
+1486, Ad Optimization
+1487, User Interface
+1488, Meteor
+1489, Dreamweaver
+1490, Drupal
+1491, Google Maps Api
+1492, Executive Leadership
+1493, Organizational Culture
+1494, Containerization
+1495, Personnel Management
+1496, Resource Management
+1497, Procurement
+1498, Maintenance & Repair
+1499, Always Punctual
+1500, Motivated Self-Starter
+1501, Diligent
+1502, Highly Personable
+1503, Python Scientific Stack
+1504, Sas Enterprise Miner
+1505, Vuejs
+1506, Qt Creator
+1507, Itil Process Implementation
+1508, Secure Shell (Ssh)
+1509,Matlab
+1510, Optimisation
+1511, Fortran
+1512, Svn
+1513, Lindo
+1514, Facebook Ads
+1515, Lindo Systems - Optimization Software
+1516, Internet Of Things
+1517, Sensors
+1518, Fastai
+1519, Intel 8085
+1520, 8086
+1521, Detail Oriented
+1522, Semantic Web
+1523, Resource Description Framework (Rdf)
+1524, Entity Framework
+1525,C/C++
+1526, Asic
+1527, Vlsi
+1528, Semiconductor Fabrication
+1529, Mechanical Engineering
+1530, Materials
+1531, Metrology
+1532, Statistical Process Control (Spc)
+1533, Chemical Mechanical Polishing
+1534, Control Systems Design
+1535, Competitive Intelligence
+1536, Microsft Sql Server
+1537, Tatkal Tkt Booking
+1538, Google Cloud Platform
+1539, Apache Avro
+1540, Apache Airflow
+1541, Datadog
+1542, Selenium Webdriver
+1543, Amazon Sqs
+1544, Gitlab
+1545, Microsft Azure
+1546, Statsitical Data Analysis
+1547, Marketing Analytics
+1548, Diversity & Inclusion
+1549, Organizational Behavior
+1550, Report Writing
+1551, Business Statistics
+1552, Market Information
+1553, Business Mathematics
+1554, Geospatial Analysis
+1555, Sqlalchemy
+1556, Computer Graphics
+1557, Active Directory
+1558, Azure Data Factory
+1559, Caffe
+1560, Behavior-Driven Development (Bdd)
+1561, Science Communication
+1562, Requirements Gathering
+1563, Software Project Management
+1564, Management Information Systems (Mis)
+1565, Spring
+1566, Cassandra
+1567, Julia (Programming Language)
+1568, Organization
+1569, Customer Services
+1570, Digital Analytics
+1571, Jsp
+1572, Adobe Marketing Cloud
+1573, Servlets
+1574, Ibm  Db2
+1575, Coremetrics Analytics
+1576, Sunrise
+1577, Multivariate Testing
+1578, Gcp
+1579, Genotyping
+1580, Scalability
+1581, Design-Build
+1582, Stored Procedures
+1583, Data Extraction
+1584, Digital Media
+1585,Pandas (Software)
+1586, Neuro-Linguistic Programming (Nlp)
+1587, Apache Nifi
+1588, Business Objects
+1589, Collibra Data Governance Center
+1590, Pentaho
+1591, Data Warehouse Architecture
+1592, Olap
+1593, Kafka
+1594, Groovy
+1595, Data Governance
+1596, Design Research
+1597, Rapid Prototyping
+1598, Design For Manufacturing
+1599, Business Travel
+1600, Logistics
+1601, International Team Coordination
+1602, Leading Meetings
+1603,Communication
+1604, Social Services
+1605, Design
+1606, Efficent
+1607, Equality & Diversity
+1608,Sharepoint
+1609, Volunteering
+1610, Matillion
+1611, Dbms
+1612, Columnist
+1613, Wiki Development
+1614, Srss
+1615, Microstr
+1616, Microstrategy Reporting
+1617,Java/J2Ee
+1618, Apache
+1619, Aws Glue
+1620, R Packages Ggplot2
+1621, Tidyr
+1622,Programming
+1623, Computer Language
+1624, Predictive Modelling
+1625, Apache Druid
+1626, Graphlab
+1627,Data Structures
+1628, Penalized Regression Methods
+1629, Unstructured Data
+1630, Eviews
+1631, Quickbooks
+1632, Taxact
+1633, Diagramming
+1634, Cobol
+1635, Cics
+1636, C /C++
+1637, Hadoop Hdfs
+1638, Hadoop Mapreduce
+1639, Azure Data Lake
+1640, Sql Db2
+1641, Wifi
+1642, Cloudera
+1643, Hiveql
+1644, Apache Oozie
+1645, Apache Flume
+1646, Bluetooth
+1647, Memory Management
+1648, Kernel Debugging
+1649, Windbg
+1650, Wwan
+1651, Office 365
+1652, Microsoft Access
+1653, Project Leadership
+1654,Data Analytics
+1655, Quality Control
+1656, Ext Js
+1657, Sas Base
+1658, Transfer Learning
+1659, Cybersecurity
+1660, Political Science
+1661, Agile & Waterfall Methodologies
+1662, Product Analytics
+1663, Digital Image Processing
+1664, Business Systems Analysis
+1665, Vlookup
+1666,Microsoft Sql Server
+1667, Asp.Net Mvc
+1668, Dot Net
+1669, Mvvm
+1670,Hdfs
+1671, Ibm Db2
+1672, Storm
+1673, Cloudera Distribution
+1674, My
+1675,Sas Programming
+1676, Trend Analysis
+1677, Market Risk
+1678, Powerbi
+1679, Sas Eg
+1680, Sas Va
+1681, Mortgage Analytics
+1682, Credit Card Analytics
+1683, Data Validation
+1684, Ccar
+1685, Basel Iii
+1686, Basel Ii
+1687, Outlier Detection
+1688, Churn Prediction
+1689, Credit Score Cards
+1690, Credit Sw
+1691, Stress Testing
+1692, Lgd
+1693, Amazon Athena
+1694, Aws Data Bricks
+1695, Site Reliability Engineering
+1696, Cantonese
+1697, Text Classification
+1698, Dmaic
+1699, Customer Satisfaction
+1700, Total Productive Maintenance (Tpm)
+1701, Root Cause
+1702, Dimensioning
+1703, Excel Pivot
+1704, Sap Logistics
+1705, A/B
+1706, Pre-Sales
+1707, Solution Architecture
+1708, It Service Management
+1709, Service Delivery
+1710, Business Planning
+1711, Strategic Partnerships
+1712, Startup Development
+1713, Adobe Omniture
+1714, Omniture
+1715, A/B Test
+1716, Ms Power Bi
+1717, Teradata Sql
+1718, Automic
+1719, Atomic
+1720, Data Vizualization
+1721,Statistical Data Analysis
+1722, Solaris
+1723, Oracle11G
+1724, Cognos
+1725, Amazon Sagemaker
+1726, Oracle Rac
+1727, Oracle Database Administration
+1728, Oracle Asm
+1729, Oracle12C
+1730, Big Query
+1731, Facebook
+1732, Ffmpeg
+1733, Opensmile
+1734, H2O 3
+1735, Sparkling Water
+1736, Project Planning
+1737, 3D Printing
+1738, Adobe Spark
+1739, Apache Spark Streaming
+1740, Compliance Testing
+1741, Data Products
+1742, Quality Assurance Processes
+1743, Data Ingestion
+1744, Ssrs
+1745, Agile Application Development
+1746, Reporting
+1747, Presto
+1748, Rabbitmq
+1749, Data Integrity
+1750, Requirements Management
+1751, Sap Businessobjects
+1752, Agile Environment
+1753, Putty
+1754, Winscp
+1755, Datasets
+1756, Aws Cloudformation
+1757, Amazon Simple Notification Service (Sns)
+1758, Performance Management
+1759, Pharmaceutics
+1760, Life Sciences
+1761, Hp Quality Center
+1762, Soapui
+1763, Team Work
+1764, Rational Functional Tester
+1765, Etl Testing
+1766, Jmeter
+1767, Itil Certified
+1768, Itil
+1769, Windows System Administration
+1770, Change Management
+1771, Algorithm Analysis
+1772, Theory Of Computation
+1773, Canoe
+1774, Canape
+1775, Source Insight
+1776, Vector Cast
+1777, Trace 32
+1778, Construction Management
+1779, Microsoft Project
+1780, Primavera P6
+1781, Staad-Pro
+1782, Embedded C
+1783, Xilinx Ise
+1784, Falcon C
+1785, Sublime Text
+1786,Sap Erp
+1787, Cobit
+1788, Sap Abap
+1789, Sap Netweaver
+1790, Sap Mm
+1791, Abap
+1792, Collibra
+1793, Collibra Platform
+1794, Impala
+1795, Neptune Dx Platform
+1796, Object Oriented Software
+1797, Abap Web Dynpro
+1798, Abap-Oo
+1799, Smartforms
+1800, Bapi
+1801, Sap Badi
+1802, Rfcs
+1803, Data Privacy
+1804, It Governance
+1805, Metadata
+1806, Decision Science
+1807, Spacy
+1808, Churn Analysis
+1809, Optimization Models
+1810, Customer Analytics
+1811, Reports And Dashboards
+1812, Databricks Unified Data Analytics Platform
+1813, Banking Domain Knowledge
+1814, Ping
+1815, Visual Analytics
+1816, Knowledge Discovery In Databases
+1817,Oracle
+1818, Data Modelling
+1819, Sap Erp
+1820, Kafka Streams
+1821, Apache Sqoop
+1822, Query Optimization
+1823, Data Cleansing
+1824, Star Schema
+1825, Data Transformation
+1826, Data Profiling
+1827, T-Sql Stored Procedures
+1828, Hql
+1829, Amazon Quicksight
+1830, Struts
+1831, Jdbc
+1832, Spring Framework
+1833, Solr
+1834, Grails
+1835, Salesforce.Com Administration
+1836, Salesforce.Com Development
+1837, Healthcare Effectiveness Data And Information Set (Hedis)
+1838, Sharepoint Server
+1839,Plsql
+1840, Oracle Fusion Cloud
+1841, Oracle Applications
+1842, Oracle Erp
+1843, Microsoft Visual Studio Code
+1844, Oracle Reports
+1845, Oracle Project Accounting
+1846, Oracle Financials
+1847, Oracle Conversions
+1848, Oracle Integration
+1849, Xml Publisher
+1850, Oa Framework
+1851, Jdeveloper
+1852, Data Migration
+1853, Virtual Office
+1854, Virtual Work
+1855, Romax Designer
+1856, Knime
+1857, Teradata Data Warehouse
+1858, Aster
+1859,Chemical Engineering
+1860, Experimentation
+1861, Statistical Process Control
+1862, Thermodynamics
+1863, Heat Transfer
+1864, Process Optimization
+1865, Fluid Mechanics
+1866, Semiconductors
+1867, Mathcad
+1868, Jsl
+1869, Defect Reduction
+1870, Ion Implantation
+1871, Physical Vapor Deposition
+1872, Fluid Dynamics
+1873, Unix Shell Scripting
+1874, Plsq
+1875,React Hooks
+1876, Academic Administration
+1877, Program Management
+1878, E-Learning
+1879, Program Development
+1880, Strategic Communications
+1881, Administration
+1882, Educational Technology
+1883, Learning Management Systems
+1884, Educational Leadership
+1885, Organizational Development
+1886, Teacher Training
+1887, Supervisory Skills
+1888, Training & Development
+1889, Staff Development
+1890, Facilitation
+1891, Coaching
+1892, Student Engagement
+1893, Fluent In Spanish
+1894, Active Record
+1895, Employee Learning & Development
+1896, Curriculum
+1897, Academic Program Management
+1898, Alteryx Bi + Visualization Solutions
+1899, Slack
+1900, Basic Javascript
+1901, Bash/Command Line
+1902, Problem Framing
+1903, Challenge Driven
+1904,Numpy
+1905, Anova
+1906, Chi-Square
+1907,Javascript
+1908, Vsts
+1909, Api Testing
+1910,Etl
+1911, Performance Tuning
+1912, Siebel
+1913, Sybase
+1914, Crystal Reports
+1915, Informatica Power Center
+1916, Elt
+1917, Erwin
+1918, Sql Tuning
+1919, Powercenter
+1920, Cdc
+1921, Ssas
+1922, Data Marts
+1923, Metadata Management
+1924, Inforamtica Data Quality
+1925, Informatica Metadata Manager
+1926, Java Server Faces
+1927, Apache Hadoop
+1928, Vmware
+1929, Cloveretl
+1930, Restful Architecture
+1931, On Deadline
+1932, Rds
+1933, Redshift
+1934, Quantitative Risk Analysis
+1935, Carto
+1936, Ownership
+1937, Athena
+1938,Tableau
+1939, Ms Powerbi
+1940,Sap Abap
+1941, Cyberlaw
+1942, Oracle Certified Associate
+1943, Webconcepts
+1944, Sap Fiori
+1945, Sapui5
+1946, Sap Workflow
+1947, Webdynpro
+1948, Mainframe
+1949, Informatica Bdm
+1950, Online Transaction Processing (Oltp)
+1951, Flume
+1952, Google Cloud Automl
+1953, Ucd
+1954,Ruby
+1955, Customer Experience
+1956, Shopify
+1957, Benchmarking
+1958, Zendesk
+1959, Customer Service Operations
+1960, Hypertext Transfer Protocol (Http)
+1961, Rspec
+1962, Capybara
+1963, Activerecord
+1964, Model-View-Controller (Mvc)
+1965,Design Patterns
+1966, Language Integrated Query (Linq)
+1967, Team Foundation Server (Tfs)
+1968, Unified Modeling Language (Uml)
+1969, Intelligence Analysis
+1970, Skilled Multi-Tasker
+1971, Arena Simulation Software
+1972, Kpi Reports
+1973, Kpi Dashboards
+1974, Key Metrics
+1975,Web Development
+1976, File Management
+1977, Hl7 Standards
+1978, Windows 7
+1979, Facilitative Leadership
+1980, Strategies And Work Flow Processes
+1981, Systems Design
+1982, Testing And Implementation
+1983, Allscripts
+1984, Allscripts Aehr
+1985, Soarian
+1986, Patient Works
+1987, Forms On Demand
+1988, Https
+1989, Fpga
+1990, Tcl
+1991, Formal Verification
+1992, Systemverilog
+1993, Bharathanatiyam
+1994,Mule Esb
+1995, Web Services
+1996, Soap
+1997, It Management
+1998, Network-Attached Storage (Nas)
+1999, Linux System Administration
+2000, High Availability
+2001, Nfs
+2002, Raid
+2003, File Systems
+2004, Kronos
+2005, Black Box Testing
+2006, Bug Tracking
+2007, Apache Derby
+2008, Hp Data Center
+2009, Storage Domain
+2010, Apache Hive
+2011, Apache Zookeeper
+2012,Data Science In Python
+2013, Data Architecture
+2014, Sales Presentations
+2015, Painting
+2016, Designing
+2017, Java Servlets
+2018, Coding In Datastructures And Algorithms
+2019, Embedded Coding
+2020, Zoho Creator
+2021, Craft Works
+2022, Sed
+2023, Awk
+2024, Python Script
+2025, Aws Identity And Access Management (Aws Iam)
+2026,Git
+2027, Computer Security
+2028, Amd64
+2029, Computer Architecture
+2030, Valgrind
+2031, Profiling Tools
+2032, Tdd
+2033, S3
+2034, Oozie
+2035, Sql Server
+2036, Hdf5
+2037, Pig
+2038, Data Lake
+2039, Apache Storm
+2040, Hdinsight
+2041, Oracle 9I
+2042, Microsoft Sql
+2043, Zos
+2044,Apache Kafka
+2045, Apache Ant
+2046, Dynamodb
+2047, J2Ee Web Services
+2048, Gerrit
+2049, Elastic Cache
+2050, Aws Sage Maker
+2051,Big Data
+2052, Map Reduce
+2053, Emr
+2054, Sun Solaris
+2055, Erwin Data Modeler
+2056, Er Studio
+2057, Pl
+2058, Rad
+2059, Jad
+2060, Amazon Kinesis
+2061, Apache Impala
+2062, Pig Latin
+2063,Data Engineering
+2064,Engineering
+2065, Data Streaming
+2066, Agile Software Development
+2067, Informatica Powercenter
+2068, Informatica Cloud
+2069, Business Objects Xi
+2070, T-Sql
+2071, Windows Powershell
+2072, Rightnow
+2073, Eloqua
+2074, Toad
+2075, Sql*Plus
+2076, Sql Loader
+2077, Talend Open Studio & Integration Suite
+2078,Gcp
+2079, Bigquery
+2080, Powershell
+2081, Jboss
+2082, Gcs
+2083, Data Fusion
+2084, Vertex
+2085, Cli
+2086, Dls
+2087, Glue
+2088, Avro
+2089, Csv
+2090, Azure Hd Insights
+2091, Hue
+2092, Data Proc
+2093, Datastudio
+2094, Blob Storage
+2095, Parquet
+2096, Electronic Medical Record (Emr)
+2097, Joint Application Design (Jad)
+2098, Business Objects Data Integrator
+2099, Laboratory Skills
+2100, Planning Budgeting & Forecasting
+2101, M&A Execution
+2102, Cost Control
+2103, Angular 2
+2104, Oauth
+2105, Command Prompt
+2106, Competitive Strategy
+2107, Workplace Recovery
+2108,Market Research
+2109, Account Management
+2110, Shopper Marketing
+2111, Food & Beverage
+2112, Food Safety
+2113, Management Accounting
+2114, Managerial Finance
+2115, Inventory Management
+2116, Fast-Moving Consumer Goods (Fmcg)
+2117, Food Processing
+2118, Supermarkets
+2119, Retail Category Management
+2120, Retail Store Operations
+2121, Geophysics
+2122, Geology
+2123, Mac Os X
+2124, Adobe Illustrator Cs
+2125, Fortran 95
+2126, Scrapy Framework
+2127, Google Cloud Dataflow
+2128, Petrel
+2129, Omega
+2130, Seismology
+2131, Earthquake
+2132, Csh
+2133, Cshell
+2134, Seismic Analysis Code
+2135, Geophysical Data Processing
+2136, Gis Application
+2137, Bokeh Visualization Library
+2138, Grunt.Js
+2139, Sails.Js
+2140, Root
+2141, Experimental High Energy Physics
+2142, Telecommunications
+2143, Computer-Aided Design (Cad)
+2144, System Administration
+2145, Asp
+2146, Industrial Automation
+2147, Cisco Networking
+2148, Nmr
+2149, Uv/Vis
+2150, Lims
+2151, Pair Programming
+2152, Location Intelligence
+2153, Location Based Services
+2154,Tensorflow
+2155, Culinary Skills
+2156, Hospitality Management
+2157, Cooking
+2158, Restaurants
+2159, Menu Development
+2160, Budgeting
+2161,Database Management System (Dbms)
+2162, Computational Linguistics
+2163, Rapidminer
+2164, Performance Dashboards
+2165, Idq
+2166, Visiual Studio Code
+2167, Arts & Crafts
+2168, C And C++
+2169, Qt Designer
+2170, Qt
+2171,Software Development
+2172, Iis
+2173, Lucene
+2174, Wcf Services
+2175,Database Design
+2176, Software Quality Control
+2177, Descriptive Analysis
+2178, Document Management
+2179, Microsoft Onedrive
+2180, Onenote
+2181, General Data Protection Regulation (Gdpr)
+2182, Collaboration Tools
+2183, Skype
+2184, Virtual Collaboration
+2185, Project Management Software
+2186, Enterprise Data Management
+2187, Ibm Spss
+2188, Business Process Analysis
+2189, Prezi
+2190, Multilingual Communication
+2191, Horse Racing
+2192, Brewing
+2193, Cycling
+2194, Wine & Spirits Industry
+2195, Craft Beer
+2196, Allseated
+2197, Concept Wave
+2198, Proquest
+2199, Oracle Pl/Sql
+2200, Ms Sql Server 2008 R2
+2201, Ms Sql Server - Ssis Packages
+2202, Information Security Audit
+2203, Agile-Scrum
+2204, Sas Base Programming 9.0
+2205,Business Analysis
+2206, Erp
+2207, It Strategy
+2208, Wealth Management
+2209, Professional Ethics
+2210, Boto
+2211, Performance Improvement
+2212, Behavior Change
+2213, Data Structures And Algorithms
+2214,Pl/Sql
+2215, Sterling Integrator
+2216, Ibm Maximo
+2217, Birt Project
+2218, Pipelines
+2219, Knn
+2220, Google Kubernetes Engine (Gke)
+2221, Apache Beam
+2222, Risk Assessment
+2223, Sap Bi
+2224, Sap Products
+2225, Easily Adaptable
+2226, It Risk Management
+2227, Itgc
+2228, It Controls
+2229,Certified Scrum Master
+2230, Data Analyst
+2231, Business Analyst
+2232, Django Rest Framework
+2233, Itsm
+2234,C (Programming Language)
+2235, Graphdb
+2236, Self-Directed Learning
+2237, Mulesoft
+2238, Amazon Rds
+2239, Pega Testing
+2240, Microsoft Ex
+2241, Nodejs
+2242, Gruntjs
+2243, Azure Cosmos Db
+2244, Kusto Query Language (Kql)
+2245, Msbi
+2246, Cosmos
+2247, Finacle
+2248, Windows Azure
+2249, Internet Information Services (Iis)
+2250, Sharepoint Administration
+2251, Windows Sharepoint Services
+2252, Sharepoint Designer
+2253, Virtual Machines
+2254, Knowledgelake
+2255, Jde Enterprise One
+2256, Order Management
+2257, Field Service
+2258, Erp Software
+2259, Ms Excel Pivot Tables
+2260, C Language
+2261, Sybase Sql Anywhere
+2262, Powerbuilder
+2263, Bootstrapping
+2264, Documentation
+2265, Technical Support
+2266, Google Webmaster Tools
+2267, Uml Tools
+2268, Notepad++
+2269, Application Support
+2270, Dashboard Metrics
+2271, Ibm Wps
+2272, Rfhutil
+2273, Websphere Mq
+2274,Database Administration
+2275, Javaserver Pages (Jsp)
+2276, Amazon Cloudfront
+2277, Pmd
+2278, Network Load Balancing
+2279, Mariadb
+2280,Informatica
+2281, Tortoise Svn
+2282, Clearcase
+2283, Tidal Enterprise Scheduler
+2284, Angular4
+2285, Relationship Building
+2286, Vscode
+2287, Nvm Express (Nvme)
+2288, Node Js
+2289, Embedded Javascript (Ejs)
+2290, Pytest
+2291, Pymongo
+2292, Web Application Development
+2293,Msbi
+2294, Website Development
+2295, Oracle Sql
+2296, Oral Communication
+2297, Analytical Reasoning
+2298, Cvs
+2299, Sbt
+2300, Hua
+2301, Sql Serve
+2302, Vbscript
+2303, Client Services
+2304, Professional Mentoring
+2305, Smart Working
+2306, Bpmn
+2307, Excel Models
+2308, Ibm Watson
+2309, Ibm Infosphere Datastage
+2310, Ibm Infosphere Streams
+2311, Python Programming
+2312, Fastapi
+2313, Data Analysis On Excel
+2314, Social Work
+2315, Sybase Iq
+2316,Data Mining
+2317, Apache Zeppelin
+2318, Agile Methodologies  See 6 Endorsements For Agile Methodologies
+2319, Project Estimation  See 1 Endorsement For Project Estimation
+2320, Informatica Power Exchange
+2321, Business Networking
+2322, Career Management
+2323,Abap
+2324, Code Review
+2325, Database
+2326, Odata
+2327, Sap Solution Manager
+2328, Cross-Team Collaboration
+2329, Agile Web Development
+2330, Apache Spark Graphx
+2331, High Performance Computing (Hpc)
+2332,C
+2333, Shell Script
+2334, Amazon Aws
+2335, Git Version Control
+2336, Web Application Design
+2337, Distributed System
+2338, Logic Programming
+2339, Product Lifecycle Management
+2340, Transformer
+2341, Agile Leadership
+2342, Stanza
+2343, Functional Testing
+2344, Customer Insight
+2345, Uat
+2346, Adobe Analytics
+2347, Descriptive Statistical Analysis
+2348, Logical Data Modeling
+2349, Udmh Awm Dwm
+2350, Personal Branding
+2351, First Impressions
+2352, Customer Analysis
+2353, Sas Visual Analytics
+2354, Mssql
+2355,Project Management
+2356, Data Warehouse
+2357, Ms Sql Server
+2358, It Infrastructure
+2359, Data Security
+2360, Peoplesoft
+2361, Apache Superset
+2362, Oracle Application Development Framework (Adf)
+2363, Oracle Mobile Cloud Enterprise
+2364,Adobe Analytics
+2365, Semantic Graphs
+2366, Dsp
+2367, Cransoft
+2368, Interana
+2369, Conversion Tracking
+2370, Cohort Analysis
+2371, High Performer
+2372, Anzo
+2373, Influxdb
+2374, Streamsets
+2375, Openstack
+2376, Cognos Reportnet
+2377, Cisco Ucs
+2378, Sensu
+2379,Scala
+2380, Bash Scripting
+2381, Macros In Sas
+2382, Certified Cloud Practitioner
+2383, Content Development
+2384, Tlm
+2385, Bmc Remedy User
+2386, Neural Network
+2387, Load Balancing
+2388, Web Servers
+2389, Esp Workstation
+2390, Cucumber
+2391, Securities Lending
+2392, Karma
+2393, Geb
+2394, Tla+
+2395, Informatica Mdm
+2396, Data Bricks
+2397,Kubernetes
+2398, Terraform
+2399, Grafana
+2400, Data Dog
+2401, Cloudflare
+2402, Checkmk
+2403, Amazon Eks
+2404, Chef
+2405, Logstach
+2406, Cloudbees
+2407, Harness
+2408, New Relic
+2409, Golang
+2410, Strimzi
+2411, Kafka Connect
+2412, Kafka Mirrormaker
+2413, Agile Development
+2414, Lucidchart
+2415, Microsoft Power Query
+2416, Active Listening
+2417, Ideas Development
+2418, Motivation
+2419, Theano
+2420, R Language
+2421, Natural Language Generation
+2422, Spyder Ide
+2423, Youtrack
+2424,Cloud Computing
+2425, Cssedit
+2426, Datascience
+2427, Multi-Cultural Team Leadership
+2428, Spring Security
+2429, Entertainment
+2430, Stand-Up Comedy
+2431, Badminton
+2432, Group Discussions
+2433, Workplace Relations
+2434, Intelligence
+2435, Informatics
+2436, Geospatial Intelligence
+2437, Cse
+2438, Climate
+2439, Geospatial Data
+2440, Geospatial Modeling
+2441, Functional Programming
+2442, Influence Others
+2443,Public Speaking
+2444, Technical Writing
+2445, Startup
+2446, Agile Testing
+2447, Information Security Management
+2448, Adaptability
+2449, Vulnerability Management
+2450, Owasp
+2451, Robotic Process Automation (Rpa)
+2452, Supply Chain
+2453, Supply Chain Optimization
+2454, Tableau Server
+2455, Figma
+2456, React
+2457, Redux
+2458, Reporting Requirements
+2459, Start-Up Environment
+2460, Software Testing
+2461, Defect Life Cycle
+2462, Qc Tools
+2463, Apache Ambari
+2464, Apache Oo
+2465, Dance
+2466, Online Advertising
+2467, Human Computer Interaction
+2468, Human Centered Design
+2469, User-Centered Design
+2470, Sisense
+2471, Leadership Development
+2472, Organizational Leadership
+2473, Google Docs
+2474, Adobe Premiere
+2475, Google Drive
+2476, Adobe Muse
+2477, Weebly
+2478, Algebra
+2479, Enterprise Marketing
+2480, Managerial Economics
+2481, Adobe Photo
+2482, Jasper Reports
+2483, Ibm Rational
+2484, Flexibility
+2485,Sap Business Intelligence
+2486, Business Data Visualization
+2487, Technical Pre-Sales
+2488, Pcb Layout Design
+2489, Bi Product Trial Enablement
+2490, Multisim
+2491, Proteus
+2492, Electronics Circuits
+2493, Biomedical Devices
+2494, Design Studio
+2495, Vue.Js
+2496, Lua
+2497,R (Programming Language)
+2498, Amazon Cloudwatch
+2499, Amazon Ecs
+2500, Rally
+2501, Snowflake Cloud
+2502,Workflow Management
+2503, Healthcare Industry
+2504, Healthcare Information Technology (Hit)
+2505, Data Architects
+2506, Akka
+2507, Docker Swarm
+2508, Nginx
+2509, Secure Sockets Layer (Ssl)
+2510, Microsoft Bi
+2511, Feature Extraction
+2512, Gretl
+2513, Programmable Logic Controller (Plc)
+2514, Microsoft Visual Studio C++
+2515, Ros
+2516, Allen-Bradley
